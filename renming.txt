@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html lang="en" dir="ltr">
+  <!--<![endif]-->  <head>
+    <title>
+      Disqus Comments
+    </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <style>
+      
+        .alert--warning {
+            border-radius: 3px;
+            padding: 10px 15px;
+            margin-bottom: 10px;
+            background-color: #FFE070;
+            color: #A47703;
+        }
+
+        .alert--warning a,
+        .alert--warning a:hover,
+        .alert--warning strong {
+            color: #A47703;
+            font-weight: bold;
+        }
+
+        .alert--error p,
+        .alert--warning p {
+            margin-top: 5px;
+            margin-bottom: 5px;
+        }
+        
+        
+    </style>
+    <style>
+      
+        html {
+            overflow: hidden;
+        }
+
+        #error {
+            display: none;
+        }
+
+        .clearfix:after {
+            content: "";
+            display: block;
+            height: 0;
+            clear: both;
+            visibility: hidden;
+        }
+
+        
+    
+    </style>
+  </head>
+  <body>
+    <div id="error" class="alert--error">
+      <p>
+        We were unable to load Disqus. If you are a moderator please see our 
+        <a href="https://docs.disqus.com/help/83/">
+           troubleshooting guide
+        </a>
+        . 
+      </p>
+    </div>
+    <script type="text/json" id="disqus-forumData">
+//<![CDATA[
+{"session":{"canModerate":false,"audienceSyncVerified":false,"mustVerify":false,"canReply":true,"mustVerifyEmail":false},"features":{},"forum":{"category":"News","description":"\u003cp>The largest newspaper group in China\u003c/p>","founder":"136231897","twitterName":"PDChina","url":"http://en.people.cn","raw_description":"The largest newspaper group in China","guidelines":null,"favicon":{"permalink":"http://disqus.com/api/forums/favicons/enpeople.jpg","cache":"//a.disquscdn.com/uploads/forums/336/4055/favicon.png"},"raw_guidelines":null,"language":"en","daysThreadAlive":0,"avatar":{"small":{"permalink":"http://disqus.com/api/forums/avatars/enpeople.jpg?size=32","cache":"//a.disquscdn.com/1468276017/images/noavatar32.png"},"large":{"permalink":"http://disqus.com/api/forums/avatars/enpeople.jpg?size=92","cache":"//a.disquscdn.com/1468276017/images/noavatar92.png"}},"channel":null,"daysAlive":0,"pk":"3364055","signedUrl":"http://disq.us/?url=http%3A%2F%2Fen.people.cn&key=SnsvE9qrWhRZHMRJ7dAkDA","settings":{"supportLevel":1,"adsDRNativeEnabled":false,"disable3rdPartyTrackers":false,"adsVideoEnabled":false,"adsProductVideoEnabled":false,"adsPositionTopEnabled":true,"ssoRequired":false,"linkAffiliationEnabled":false,"adsProductLinksThumbnailsEnabled":false,"adsProductStoriesEnabled":false,"organicDiscoveryEnabled":true,"allowMedia":true,"discoveryMax":true,"discoveryLocked":false,"moderatorText":"","adsEnabled":false,"allowAnonPost":true,"hasCustomAvatar":false,"adultContent":false,"promotedDiscoveryEnabled":false,"allowAnonVotes":false,"mustVerify":true,"colorScheme":"auto","adsSettingsLocked":false,"mustVerifyEmail":true,"audienceSyncEnabled":false,"typeface":"auto","adsPositionBottomEnabled":true,"mediaembedEnabled":true,"adsProductLinksEnabled":false,"discoveryThumbnailsEnabled":false,"isVIP":false},"id":"enpeople","createdAt":"2014-12-19T01:35:41.729485","name":"People's Daily"}}
+//]]>
+    </script>
+    <script type="text/json" id="disqus-threadData">
+//<![CDATA[
+{"cursor":{"hasPrev":false,"prev":null,"total":2,"hasNext":false,"next":"1:0:0"},"code":0,"response":{"lastModified":1468807582,"posts":[{"forum":"enpeople","parent":null,"isApproved":true,"author":{"username":"riley7","about":"","name":"riley7","disable3rdPartyTrackers":false,"isPowerContributor":false,"isAnonymous":false,"rep":2.084646,"profileUrl":"https://disqus.com/by/riley7/","url":"","reputation":2.084646,"location":"","isPrivate":true,"signedUrl":"","isPrimary":true,"joinedAt":"2010-04-30T17:35:31","id":"2856141","avatar":{"small":{"permalink":"http://disqus.com/api/users/avatars/riley7.jpg","cache":"//a.disquscdn.com/1468276017/images/noavatar32.png"},"isCustom":false,"permalink":"http://disqus.com/api/users/avatars/riley7.jpg","cache":"//a.disquscdn.com/1468276017/images/noavatar92.png","large":{"permalink":"http://disqus.com/api/users/avatars/riley7.jpg","cache":"//a.disquscdn.com/1468276017/images/noavatar92.png"}}},"media":[],"isDeleted":false,"isFlagged":false,"dislikes":0,"raw_message":"Will \"Fat Leonard\" be attending to assist  the U.S., so that strong leaership is present.\n\nIt is good to see U.S. Chief of Naval Operations John Richardson showing courage and to be respected, in not needing to hide in a carrier groups as Sec. of Defense Carter did off the China coast.  Perhaps men of integrity, and humility can now speak with each other in a good manner....","createdAt":"2016-07-18T00:38:16","id":"2788686760","thread":"4993497044","depth":0,"numReports":0,"isDeletedByAuthor":false,"likes":1,"isEdited":false,"message":"\u003cp>Will \"Fat Leonard\" be attending to assist  the U.S., so that strong leaership is present.\u003c/p>\u003cp>It is good to see U.S. Chief of Naval Operations John Richardson showing courage and to be respected, in not needing to hide in a carrier groups as Sec. of Defense Carter did off the China coast.  Perhaps men of integrity, and humility can now speak with each other in a good manner....\u003c/p>","isSpam":false,"isHighlighted":false,"points":1},{"forum":"enpeople","parent":null,"isApproved":true,"author":{"username":"JavedMir","about":"An ex-Banker","name":"Javed Mir","disable3rdPartyTrackers":false,"isPowerContributor":false,"isAnonymous":false,"rep":5.145915,"profileUrl":"https://disqus.com/by/JavedMir/","url":"","reputation":5.145915,"location":"Lahore, Pakistan","isPrivate":false,"signedUrl":"","isPrimary":true,"joinedAt":"2012-04-30T19:39:51","id":"25517435","avatar":{"small":{"permalink":"http://disqus.com/api/users/avatars/JavedMir.jpg","cache":"//a.disquscdn.com/uploads/users/2551/7435/avatar32.jpg?1468807582"},"isCustom":true,"permalink":"http://disqus.com/api/users/avatars/JavedMir.jpg","cache":"//a.disquscdn.com/uploads/users/2551/7435/avatar92.jpg?1468807582","large":{"permalink":"http://disqus.com/api/users/avatars/JavedMir.jpg","cache":"//a.disquscdn.com/uploads/users/2551/7435/avatar92.jpg?1468807582"}}},"media":[],"isDeleted":false,"isFlagged":false,"dislikes":0,"raw_message":"Let us hope that the two Chiefs can smoothen the likely flare up.","createdAt":"2016-07-18T02:06:21","id":"2788778270","thread":"4993497044","depth":0,"numReports":0,"isDeletedByAuthor":false,"likes":0,"isEdited":false,"message":"\u003cp>Let us hope that the two Chiefs can smoothen the likely flare up.\u003c/p>","isSpam":false,"isHighlighted":false,"points":0}],"thread":{"feed":"https://enpeople.disqus.com/navy_chiefs_set_for_fresh_talks_on_south_china_sea_peoples_daily_online/latest.rss","identifiers":["9087298"],"dislikes":0,"likes":0,"message":"","id":"4993497044","isDeleted":false,"category":"3417715","author":"136231897","userScore":0,"userSubscription":false,"isSpam":false,"signedLink":"http://disq.us/?url=http%3A%2F%2Fen.people.cn%2Fn3%2F2016%2F0718%2Fc90000-9087298.html&key=2cdv4Yj3dJ5SHWowUPgMiw","createdAt":"2016-07-18T00:27:56","hasStreaming":false,"raw_message":"","isClosed":false,"link":"http://en.people.cn/n3/2016/0718/c90000-9087298.html","slug":"navy_chiefs_set_for_fresh_talks_on_south_china_sea_peoples_daily_online","forum":"enpeople","clean_title":"Navy chiefs set for fresh talks on South China Sea","posts":2,"moderators":[136231897],"title":"Navy chiefs set for fresh talks on South China Sea - People's Daily Online","highlightedPost":null}},"order":"popular"}
+//]]>
+    </script>
+    <div id="fixed-content">
+    </div>
+    <script type="text/json" id="disqus-urls">
+//<![CDATA[
+{
+    "root":"//disqus.com",
+    "next":"//a.disquscdn.com/next/current/embed"
+}
+//]]>
+    </script>
+    <script src="//a.disquscdn.com/next/embed/lounge.load.903c42d8cc0fc262b4dc784af26d8041.js" id="bootstrap-script" data-app="lounge" async="">
+    </script>
+  </body>
+</html>

@@ -1,0 +1,854 @@
+2016-02-23 15:09:46,693 [main] INFO  LoggingInvocationHandler:21 - 调用方法 compareTo;参数为 [Good]
+2016-02-23 15:16:36 [main] INFO  LoggingInvocationHandler:21 - 调用方法 compareTo;参数为 [Good]
+2016-02-23 15:26:21 [main] INFO  LoggingInvocationHandler:21 - 调用方法 compareTo;参数为 [Good]
+2016-02-23 15:26:21 [main] INFO  LoggingInvocationHandler:21 - 调用方法 compareTo;参数为 [Good]
+2016-02-23 15:26:21 [main] INFO  LoggingInvocationHandler:21 - 调用方法 add;参数为 [Hello]
+2016-07-11 14:48:18 [main] INFO  WebClient:551 - statusCode=[404] contentType=[text/html]
+2016-07-11 14:48:18 [main] INFO  WebClient:552 - <!DOCTYPE html><html><head><title>Apache Tomcat/8.0.18 - Error report</title><style type="text/css">H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}.line {height: 1px; background-color: #525D76; border: none;}</style> </head><body><h1>HTTP Status 404 - /lab/location.html</h1><div class="line"></div><p><b>type</b> Status report</p><p><b>message</b> <u>/lab/location.html</u></p><p><b>description</b> <u>The requested resource is not available.</u></p><hr class="line"><h3>Apache Tomcat/8.0.18</h3></body></html>
+2016-07-11 14:48:47 [main] INFO  WebClient:551 - statusCode=[404] contentType=[text/html]
+2016-07-11 14:48:47 [main] INFO  WebClient:552 - <!DOCTYPE html><html><head><title>Apache Tomcat/8.0.18 - Error report</title><style type="text/css">H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}.line {height: 1px; background-color: #525D76; border: none;}</style> </head><body><h1>HTTP Status 404 - /lab/location.html</h1><div class="line"></div><p><b>type</b> Status report</p><p><b>message</b> <u>/lab/location.html</u></p><p><b>description</b> <u>The requested resource is not available.</u></p><hr class="line"><h3>Apache Tomcat/8.0.18</h3></body></html>
+2016-07-15 18:27:28 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'text/javascript'.
+2016-07-15 18:27:28 [main] WARN  IncorrectnessListenerImpl:38 - Expected content type of 'application/javascript' or 'application/ecmascript' for remotely loaded JavaScript element at 'http://fg.jiathis.com/cm.js?p=3752&k=B699A0CCE5009DE9&g=21c6ed3f0e8842df95a62b0598c2ab5e&lp=http%3A%2F%2Fen.people.cn%2Fn3%2F2016%2F0715%2Fc90000-9086529.html&ti=History+will+tell+the+true+guardian+of+South+China+Sea+peace%3A+People%E2%80%99s+Daily+-+People%27s+Daily+Online&rf=', but got 'text/plain'.
+2016-07-15 18:27:28 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'text/javascript'.
+2016-07-15 18:27:31 [main] WARN  DefaultCssErrorHandler:39 - CSS error: 'http://v3.jiathis.com/code/css/jiathis_share.css' [147:35] Error in declaration. '*' is not allowed as first char of a property.
+2016-07-15 18:27:31 [main] WARN  DefaultCssErrorHandler:39 - CSS error: 'http://v3.jiathis.com/code/css/jiathis_share.css' [436:42] Error in declaration. '*' is not allowed as first char of a property.
+2016-07-15 18:27:31 [main] INFO  JavaScriptEngine:1006 - Caught script exception
+com.gargoylesoftware.htmlunit.ScriptException: Exception invoking Window.getComputedStyle() with arguments [HTMLDocument, String]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$HtmlUnitContextAction.run(JavaScriptEngine.java:904) [htmlunit-2.22.jar:2.22]
+	at net.sourceforge.htmlunit.corejs.javascript.Context.call(Context.java:628) [htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.ContextFactory.call(ContextFactory.java:515) [htmlunit-core-js-2.22.jar:?]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.execute(JavaScriptEngine.java:786) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.execute(JavaScriptEngine.java:762) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.loadExternalJavaScriptFile(HtmlPage.java:990) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HtmlScript.executeScriptIfNeeded(HtmlScript.java:352) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HtmlScript$2.execute(HtmlScript.java:238) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.doProcessPostponedActions(JavaScriptEngine.java:952) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.access$500(JavaScriptEngine.java:97) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$HtmlUnitContextAction.run(JavaScriptEngine.java:899) [htmlunit-2.22.jar:2.22]
+	at net.sourceforge.htmlunit.corejs.javascript.Context.call(Context.java:628) [htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.ContextFactory.call(ContextFactory.java:515) [htmlunit-core-js-2.22.jar:?]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.execute(JavaScriptEngine.java:786) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.execute(JavaScriptEngine.java:762) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.execute(JavaScriptEngine.java:750) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.executeJavaScriptIfPossible(HtmlPage.java:902) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HtmlScript.executeInlineScriptIfNeeded(HtmlScript.java:307) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HtmlScript.executeScriptIfNeeded(HtmlScript.java:368) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HtmlScript$2.execute(HtmlScript.java:238) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HtmlScript.onAllChildrenAddedToPage(HtmlScript.java:257) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HTMLParser$HtmlUnitDOMBuilder.endElement(HTMLParser.java:772) [htmlunit-2.22.jar:2.22]
+	at org.apache.xerces.parsers.AbstractSAXParser.endElement(Unknown Source) [xercesImpl-2.11.0.jar:?]
+	at com.gargoylesoftware.htmlunit.html.HTMLParser$HtmlUnitDOMBuilder.endElement(HTMLParser.java:729) [htmlunit-2.22.jar:2.22]
+	at net.sourceforge.htmlunit.cyberneko.HTMLTagBalancer.callEndElement(HTMLTagBalancer.java:1209) [neko-htmlunit-2.21.jar:?]
+	at net.sourceforge.htmlunit.cyberneko.HTMLTagBalancer.endElement(HTMLTagBalancer.java:1111) [neko-htmlunit-2.21.jar:?]
+	at net.sourceforge.htmlunit.cyberneko.filters.DefaultFilter.endElement(DefaultFilter.java:207) [neko-htmlunit-2.21.jar:?]
+	at net.sourceforge.htmlunit.cyberneko.filters.NamespaceBinder.endElement(NamespaceBinder.java:337) [neko-htmlunit-2.21.jar:?]
+	at net.sourceforge.htmlunit.cyberneko.HTMLScanner$ContentScanner.scanEndElement(HTMLScanner.java:3137) [neko-htmlunit-2.21.jar:?]
+	at net.sourceforge.htmlunit.cyberneko.HTMLScanner$ContentScanner.scan(HTMLScanner.java:2100) [neko-htmlunit-2.21.jar:?]
+	at net.sourceforge.htmlunit.cyberneko.HTMLScanner.scanDocument(HTMLScanner.java:927) [neko-htmlunit-2.21.jar:?]
+	at net.sourceforge.htmlunit.cyberneko.HTMLConfiguration.parse(HTMLConfiguration.java:506) [neko-htmlunit-2.21.jar:?]
+	at net.sourceforge.htmlunit.cyberneko.HTMLConfiguration.parse(HTMLConfiguration.java:459) [neko-htmlunit-2.21.jar:?]
+	at org.apache.xerces.parsers.XMLParser.parse(Unknown Source) [xercesImpl-2.11.0.jar:?]
+	at com.gargoylesoftware.htmlunit.html.HTMLParser$HtmlUnitDOMBuilder.parse(HTMLParser.java:979) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HTMLParser.parse(HTMLParser.java:241) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HTMLParser.parseHtml(HTMLParser.java:187) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.DefaultPageCreator.createHtmlPage(DefaultPageCreator.java:269) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.DefaultPageCreator.createPage(DefaultPageCreator.java:157) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.WebClient.loadWebResponseInto(WebClient.java:511) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:385) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:303) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:450) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:435) [htmlunit-2.22.jar:2.22]
+	at sample.crawler.JSCrawler.main(JSCrawler.java:23) [classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_05]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_05]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_05]
+	at java.lang.reflect.Method.invoke(Method.java:483) ~[?:1.8.0_05]
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:144) [idea_rt.jar:?]
+Caused by: java.lang.IllegalArgumentException: Exception invoking Window.getComputedStyle() with arguments [HTMLDocument, String]
+	at net.sourceforge.htmlunit.corejs.javascript.MemberBox.invoke(MemberBox.java:195) ~[htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.FunctionObject.call(FunctionObject.java:448) ~[htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.Interpreter.interpretLoop(Interpreter.java:1540) ~[htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.Interpreter.interpret(Interpreter.java:800) ~[htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.InterpretedFunction.call(InterpretedFunction.java:105) ~[htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.ContextFactory.doTopCall(ContextFactory.java:413) ~[htmlunit-core-js-2.22.jar:?]
+	at com.gargoylesoftware.htmlunit.javascript.HtmlUnitContextFactory.doTopCall(HtmlUnitContextFactory.java:252) ~[htmlunit-2.22.jar:2.22]
+	at net.sourceforge.htmlunit.corejs.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3264) ~[htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.InterpretedFunction.exec(InterpretedFunction.java:115) ~[htmlunit-core-js-2.22.jar:?]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$3.doRun(JavaScriptEngine.java:777) ~[htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$HtmlUnitContextAction.run(JavaScriptEngine.java:889) ~[htmlunit-2.22.jar:2.22]
+	... 49 more
+Caused by: java.lang.IllegalArgumentException: argument type mismatch
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_05]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_05]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_05]
+	at java.lang.reflect.Method.invoke(Method.java:483) ~[?:1.8.0_05]
+	at net.sourceforge.htmlunit.corejs.javascript.MemberBox.invoke(MemberBox.java:153) ~[htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.FunctionObject.call(FunctionObject.java:448) ~[htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.Interpreter.interpretLoop(Interpreter.java:1540) ~[htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.Interpreter.interpret(Interpreter.java:800) ~[htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.InterpretedFunction.call(InterpretedFunction.java:105) ~[htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.ContextFactory.doTopCall(ContextFactory.java:413) ~[htmlunit-core-js-2.22.jar:?]
+	at com.gargoylesoftware.htmlunit.javascript.HtmlUnitContextFactory.doTopCall(HtmlUnitContextFactory.java:252) ~[htmlunit-2.22.jar:2.22]
+	at net.sourceforge.htmlunit.corejs.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3264) ~[htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.InterpretedFunction.exec(InterpretedFunction.java:115) ~[htmlunit-core-js-2.22.jar:?]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$3.doRun(JavaScriptEngine.java:777) ~[htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$HtmlUnitContextAction.run(JavaScriptEngine.java:889) ~[htmlunit-2.22.jar:2.22]
+	... 49 more
+2016-07-15 18:27:31 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'text/javascript'.
+2016-07-15 18:27:34 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'text/javascript'.
+2016-07-15 18:27:34 [main] ERROR StrictErrorReporter:82 - runtimeError: message=[Property 1 not found.] sourceName=[http://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-56aad7f2f0636a6b] line=[2] lineSource=[null] lineOffset=[0]
+2016-07-15 18:36:26 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'text/javascript'.
+2016-07-15 18:36:26 [main] WARN  IncorrectnessListenerImpl:38 - Expected content type of 'application/javascript' or 'application/ecmascript' for remotely loaded JavaScript element at 'http://fg.jiathis.com/cm.js?p=3752&k=B699A0CCE5009DE9&g=46defe52b188454c80c84b0e30768650&lp=http%3A%2F%2Fen.people.cn%2Fn3%2F2016%2F0715%2Fc90000-9086529.html&ti=History+will+tell+the+true+guardian+of+South+China+Sea+peace%3A+People%E2%80%99s+Daily+-+People%27s+Daily+Online&rf=', but got 'text/plain'.
+2016-07-15 18:36:26 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'text/javascript'.
+2016-07-15 18:36:27 [main] INFO  JavaScriptEngine:1006 - Caught script exception
+com.gargoylesoftware.htmlunit.ScriptException: Exception invoking Window.getComputedStyle() with arguments [HTMLDocument, String]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$HtmlUnitContextAction.run(JavaScriptEngine.java:904) [htmlunit-2.22.jar:2.22]
+	at net.sourceforge.htmlunit.corejs.javascript.Context.call(Context.java:628) [htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.ContextFactory.call(ContextFactory.java:515) [htmlunit-core-js-2.22.jar:?]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.execute(JavaScriptEngine.java:786) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.execute(JavaScriptEngine.java:762) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.loadExternalJavaScriptFile(HtmlPage.java:990) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HtmlScript.executeScriptIfNeeded(HtmlScript.java:352) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HtmlScript$2.execute(HtmlScript.java:238) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.doProcessPostponedActions(JavaScriptEngine.java:952) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.access$500(JavaScriptEngine.java:97) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$HtmlUnitContextAction.run(JavaScriptEngine.java:899) [htmlunit-2.22.jar:2.22]
+	at net.sourceforge.htmlunit.corejs.javascript.Context.call(Context.java:628) [htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.ContextFactory.call(ContextFactory.java:515) [htmlunit-core-js-2.22.jar:?]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.execute(JavaScriptEngine.java:786) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.execute(JavaScriptEngine.java:762) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.execute(JavaScriptEngine.java:750) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.executeJavaScriptIfPossible(HtmlPage.java:902) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HtmlScript.executeInlineScriptIfNeeded(HtmlScript.java:307) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HtmlScript.executeScriptIfNeeded(HtmlScript.java:368) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HtmlScript$2.execute(HtmlScript.java:238) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HtmlScript.onAllChildrenAddedToPage(HtmlScript.java:257) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HTMLParser$HtmlUnitDOMBuilder.endElement(HTMLParser.java:772) [htmlunit-2.22.jar:2.22]
+	at org.apache.xerces.parsers.AbstractSAXParser.endElement(Unknown Source) [xercesImpl-2.11.0.jar:?]
+	at com.gargoylesoftware.htmlunit.html.HTMLParser$HtmlUnitDOMBuilder.endElement(HTMLParser.java:729) [htmlunit-2.22.jar:2.22]
+	at net.sourceforge.htmlunit.cyberneko.HTMLTagBalancer.callEndElement(HTMLTagBalancer.java:1209) [neko-htmlunit-2.21.jar:?]
+	at net.sourceforge.htmlunit.cyberneko.HTMLTagBalancer.endElement(HTMLTagBalancer.java:1111) [neko-htmlunit-2.21.jar:?]
+	at net.sourceforge.htmlunit.cyberneko.filters.DefaultFilter.endElement(DefaultFilter.java:207) [neko-htmlunit-2.21.jar:?]
+	at net.sourceforge.htmlunit.cyberneko.filters.NamespaceBinder.endElement(NamespaceBinder.java:337) [neko-htmlunit-2.21.jar:?]
+	at net.sourceforge.htmlunit.cyberneko.HTMLScanner$ContentScanner.scanEndElement(HTMLScanner.java:3137) [neko-htmlunit-2.21.jar:?]
+	at net.sourceforge.htmlunit.cyberneko.HTMLScanner$ContentScanner.scan(HTMLScanner.java:2100) [neko-htmlunit-2.21.jar:?]
+	at net.sourceforge.htmlunit.cyberneko.HTMLScanner.scanDocument(HTMLScanner.java:927) [neko-htmlunit-2.21.jar:?]
+	at net.sourceforge.htmlunit.cyberneko.HTMLConfiguration.parse(HTMLConfiguration.java:506) [neko-htmlunit-2.21.jar:?]
+	at net.sourceforge.htmlunit.cyberneko.HTMLConfiguration.parse(HTMLConfiguration.java:459) [neko-htmlunit-2.21.jar:?]
+	at org.apache.xerces.parsers.XMLParser.parse(Unknown Source) [xercesImpl-2.11.0.jar:?]
+	at com.gargoylesoftware.htmlunit.html.HTMLParser$HtmlUnitDOMBuilder.parse(HTMLParser.java:979) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HTMLParser.parse(HTMLParser.java:241) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HTMLParser.parseHtml(HTMLParser.java:187) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.DefaultPageCreator.createHtmlPage(DefaultPageCreator.java:269) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.DefaultPageCreator.createPage(DefaultPageCreator.java:157) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.WebClient.loadWebResponseInto(WebClient.java:511) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:385) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:303) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:450) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:435) [htmlunit-2.22.jar:2.22]
+	at sample.crawler.JSCrawler.main(JSCrawler.java:29) [classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_05]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_05]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_05]
+	at java.lang.reflect.Method.invoke(Method.java:483) ~[?:1.8.0_05]
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:144) [idea_rt.jar:?]
+Caused by: java.lang.IllegalArgumentException: Exception invoking Window.getComputedStyle() with arguments [HTMLDocument, String]
+	at net.sourceforge.htmlunit.corejs.javascript.MemberBox.invoke(MemberBox.java:195) ~[htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.FunctionObject.call(FunctionObject.java:448) ~[htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.Interpreter.interpretLoop(Interpreter.java:1540) ~[htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.Interpreter.interpret(Interpreter.java:800) ~[htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.InterpretedFunction.call(InterpretedFunction.java:105) ~[htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.ContextFactory.doTopCall(ContextFactory.java:413) ~[htmlunit-core-js-2.22.jar:?]
+	at com.gargoylesoftware.htmlunit.javascript.HtmlUnitContextFactory.doTopCall(HtmlUnitContextFactory.java:252) ~[htmlunit-2.22.jar:2.22]
+	at net.sourceforge.htmlunit.corejs.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3264) ~[htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.InterpretedFunction.exec(InterpretedFunction.java:115) ~[htmlunit-core-js-2.22.jar:?]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$3.doRun(JavaScriptEngine.java:777) ~[htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$HtmlUnitContextAction.run(JavaScriptEngine.java:889) ~[htmlunit-2.22.jar:2.22]
+	... 49 more
+Caused by: java.lang.IllegalArgumentException: argument type mismatch
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_05]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_05]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_05]
+	at java.lang.reflect.Method.invoke(Method.java:483) ~[?:1.8.0_05]
+	at net.sourceforge.htmlunit.corejs.javascript.MemberBox.invoke(MemberBox.java:153) ~[htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.FunctionObject.call(FunctionObject.java:448) ~[htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.Interpreter.interpretLoop(Interpreter.java:1540) ~[htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.Interpreter.interpret(Interpreter.java:800) ~[htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.InterpretedFunction.call(InterpretedFunction.java:105) ~[htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.ContextFactory.doTopCall(ContextFactory.java:413) ~[htmlunit-core-js-2.22.jar:?]
+	at com.gargoylesoftware.htmlunit.javascript.HtmlUnitContextFactory.doTopCall(HtmlUnitContextFactory.java:252) ~[htmlunit-2.22.jar:2.22]
+	at net.sourceforge.htmlunit.corejs.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3264) ~[htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.InterpretedFunction.exec(InterpretedFunction.java:115) ~[htmlunit-core-js-2.22.jar:?]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$3.doRun(JavaScriptEngine.java:777) ~[htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$HtmlUnitContextAction.run(JavaScriptEngine.java:889) ~[htmlunit-2.22.jar:2.22]
+	... 49 more
+2016-07-15 18:36:27 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'text/javascript'.
+2016-07-15 18:36:42 [main] ERROR HtmlPage:970 - Error loading JavaScript from [http://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-56aad7f2f0636a6b].
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method) ~[?:1.8.0_05]
+	at java.net.SocketInputStream.read(SocketInputStream.java:150) ~[?:1.8.0_05]
+	at java.net.SocketInputStream.read(SocketInputStream.java:121) ~[?:1.8.0_05]
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:139) ~[httpcore-4.4.4.jar:4.4.4]
+	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:155) ~[httpcore-4.4.4.jar:4.4.4]
+	at org.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:284) ~[httpcore-4.4.4.jar:4.4.4]
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:140) ~[httpclient-4.5.2.jar:4.5.2]
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:57) ~[httpclient-4.5.2.jar:4.5.2]
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:261) ~[httpcore-4.4.4.jar:4.4.4]
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:165) ~[httpcore-4.4.4.jar:4.4.4]
+	at org.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:167) ~[httpclient-4.5.2.jar:4.5.2]
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:272) ~[httpcore-4.4.4.jar:4.4.4]
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:124) ~[httpcore-4.4.4.jar:4.4.4]
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:271) ~[httpclient-4.5.2.jar:4.5.2]
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:184) ~[httpclient-4.5.2.jar:4.5.2]
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:88) ~[httpclient-4.5.2.jar:4.5.2]
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110) ~[httpclient-4.5.2.jar:4.5.2]
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184) ~[httpclient-4.5.2.jar:4.5.2]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:71) ~[httpclient-4.5.2.jar:4.5.2]
+	at com.gargoylesoftware.htmlunit.HttpWebConnection.getResponse(HttpWebConnection.java:183) ~[htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.WebClient.loadWebResponseFromWebConnection(WebClient.java:1351) ~[htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.WebClient.loadWebResponse(WebClient.java:1268) ~[htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.loadJavaScriptFromUrl(HtmlPage.java:1024) ~[htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.loadExternalJavaScriptFile(HtmlPage.java:967) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HtmlScript.executeScriptIfNeeded(HtmlScript.java:352) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HtmlScript$2.execute(HtmlScript.java:238) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.initialize(HtmlPage.java:278) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.WebClient.loadWebResponseInto(WebClient.java:518) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:385) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:303) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:450) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:435) [htmlunit-2.22.jar:2.22]
+	at sample.crawler.JSCrawler.main(JSCrawler.java:29) [classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_05]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_05]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_05]
+	at java.lang.reflect.Method.invoke(Method.java:483) ~[?:1.8.0_05]
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:144) [idea_rt.jar:?]
+2016-07-15 18:37:02 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'text/javascript'.
+2016-07-15 18:37:02 [main] WARN  IncorrectnessListenerImpl:38 - Expected content type of 'application/javascript' or 'application/ecmascript' for remotely loaded JavaScript element at 'http://fg.jiathis.com/cm.js?p=3752&k=B699A0CCE5009DE9&g=91c5e32b3dfc4d809c0d4626e3cf65f5&lp=http%3A%2F%2Fen.people.cn%2Fn3%2F2016%2F0715%2Fc90000-9086529.html&ti=History+will+tell+the+true+guardian+of+South+China+Sea+peace%3A+People%E2%80%99s+Daily+-+People%27s+Daily+Online&rf=', but got 'text/plain'.
+2016-07-15 18:37:02 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'text/javascript'.
+2016-07-15 18:37:04 [main] INFO  JavaScriptEngine:1006 - Caught script exception
+com.gargoylesoftware.htmlunit.ScriptException: Exception invoking Window.getComputedStyle() with arguments [HTMLDocument, String]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$HtmlUnitContextAction.run(JavaScriptEngine.java:904) [htmlunit-2.22.jar:2.22]
+	at net.sourceforge.htmlunit.corejs.javascript.Context.call(Context.java:628) [htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.ContextFactory.call(ContextFactory.java:515) [htmlunit-core-js-2.22.jar:?]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.execute(JavaScriptEngine.java:786) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.execute(JavaScriptEngine.java:762) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.loadExternalJavaScriptFile(HtmlPage.java:990) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HtmlScript.executeScriptIfNeeded(HtmlScript.java:352) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HtmlScript$2.execute(HtmlScript.java:238) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.doProcessPostponedActions(JavaScriptEngine.java:952) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.access$500(JavaScriptEngine.java:97) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$HtmlUnitContextAction.run(JavaScriptEngine.java:899) [htmlunit-2.22.jar:2.22]
+	at net.sourceforge.htmlunit.corejs.javascript.Context.call(Context.java:628) [htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.ContextFactory.call(ContextFactory.java:515) [htmlunit-core-js-2.22.jar:?]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.execute(JavaScriptEngine.java:786) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.execute(JavaScriptEngine.java:762) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.execute(JavaScriptEngine.java:750) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.executeJavaScriptIfPossible(HtmlPage.java:902) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HtmlScript.executeInlineScriptIfNeeded(HtmlScript.java:307) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HtmlScript.executeScriptIfNeeded(HtmlScript.java:368) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HtmlScript$2.execute(HtmlScript.java:238) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HtmlScript.onAllChildrenAddedToPage(HtmlScript.java:257) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HTMLParser$HtmlUnitDOMBuilder.endElement(HTMLParser.java:772) [htmlunit-2.22.jar:2.22]
+	at org.apache.xerces.parsers.AbstractSAXParser.endElement(Unknown Source) [xercesImpl-2.11.0.jar:?]
+	at com.gargoylesoftware.htmlunit.html.HTMLParser$HtmlUnitDOMBuilder.endElement(HTMLParser.java:729) [htmlunit-2.22.jar:2.22]
+	at net.sourceforge.htmlunit.cyberneko.HTMLTagBalancer.callEndElement(HTMLTagBalancer.java:1209) [neko-htmlunit-2.21.jar:?]
+	at net.sourceforge.htmlunit.cyberneko.HTMLTagBalancer.endElement(HTMLTagBalancer.java:1111) [neko-htmlunit-2.21.jar:?]
+	at net.sourceforge.htmlunit.cyberneko.filters.DefaultFilter.endElement(DefaultFilter.java:207) [neko-htmlunit-2.21.jar:?]
+	at net.sourceforge.htmlunit.cyberneko.filters.NamespaceBinder.endElement(NamespaceBinder.java:337) [neko-htmlunit-2.21.jar:?]
+	at net.sourceforge.htmlunit.cyberneko.HTMLScanner$ContentScanner.scanEndElement(HTMLScanner.java:3137) [neko-htmlunit-2.21.jar:?]
+	at net.sourceforge.htmlunit.cyberneko.HTMLScanner$ContentScanner.scan(HTMLScanner.java:2100) [neko-htmlunit-2.21.jar:?]
+	at net.sourceforge.htmlunit.cyberneko.HTMLScanner.scanDocument(HTMLScanner.java:927) [neko-htmlunit-2.21.jar:?]
+	at net.sourceforge.htmlunit.cyberneko.HTMLConfiguration.parse(HTMLConfiguration.java:506) [neko-htmlunit-2.21.jar:?]
+	at net.sourceforge.htmlunit.cyberneko.HTMLConfiguration.parse(HTMLConfiguration.java:459) [neko-htmlunit-2.21.jar:?]
+	at org.apache.xerces.parsers.XMLParser.parse(Unknown Source) [xercesImpl-2.11.0.jar:?]
+	at com.gargoylesoftware.htmlunit.html.HTMLParser$HtmlUnitDOMBuilder.parse(HTMLParser.java:979) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HTMLParser.parse(HTMLParser.java:241) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HTMLParser.parseHtml(HTMLParser.java:187) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.DefaultPageCreator.createHtmlPage(DefaultPageCreator.java:269) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.DefaultPageCreator.createPage(DefaultPageCreator.java:157) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.WebClient.loadWebResponseInto(WebClient.java:511) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:385) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:303) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:450) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:435) [htmlunit-2.22.jar:2.22]
+	at sample.crawler.JSCrawler.main(JSCrawler.java:29) [classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_05]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_05]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_05]
+	at java.lang.reflect.Method.invoke(Method.java:483) ~[?:1.8.0_05]
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:144) [idea_rt.jar:?]
+Caused by: java.lang.IllegalArgumentException: Exception invoking Window.getComputedStyle() with arguments [HTMLDocument, String]
+	at net.sourceforge.htmlunit.corejs.javascript.MemberBox.invoke(MemberBox.java:195) ~[htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.FunctionObject.call(FunctionObject.java:448) ~[htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.Interpreter.interpretLoop(Interpreter.java:1540) ~[htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.Interpreter.interpret(Interpreter.java:800) ~[htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.InterpretedFunction.call(InterpretedFunction.java:105) ~[htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.ContextFactory.doTopCall(ContextFactory.java:413) ~[htmlunit-core-js-2.22.jar:?]
+	at com.gargoylesoftware.htmlunit.javascript.HtmlUnitContextFactory.doTopCall(HtmlUnitContextFactory.java:252) ~[htmlunit-2.22.jar:2.22]
+	at net.sourceforge.htmlunit.corejs.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3264) ~[htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.InterpretedFunction.exec(InterpretedFunction.java:115) ~[htmlunit-core-js-2.22.jar:?]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$3.doRun(JavaScriptEngine.java:777) ~[htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$HtmlUnitContextAction.run(JavaScriptEngine.java:889) ~[htmlunit-2.22.jar:2.22]
+	... 49 more
+Caused by: java.lang.IllegalArgumentException: argument type mismatch
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_05]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_05]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_05]
+	at java.lang.reflect.Method.invoke(Method.java:483) ~[?:1.8.0_05]
+	at net.sourceforge.htmlunit.corejs.javascript.MemberBox.invoke(MemberBox.java:153) ~[htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.FunctionObject.call(FunctionObject.java:448) ~[htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.Interpreter.interpretLoop(Interpreter.java:1540) ~[htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.Interpreter.interpret(Interpreter.java:800) ~[htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.InterpretedFunction.call(InterpretedFunction.java:105) ~[htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.ContextFactory.doTopCall(ContextFactory.java:413) ~[htmlunit-core-js-2.22.jar:?]
+	at com.gargoylesoftware.htmlunit.javascript.HtmlUnitContextFactory.doTopCall(HtmlUnitContextFactory.java:252) ~[htmlunit-2.22.jar:2.22]
+	at net.sourceforge.htmlunit.corejs.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3264) ~[htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.InterpretedFunction.exec(InterpretedFunction.java:115) ~[htmlunit-core-js-2.22.jar:?]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$3.doRun(JavaScriptEngine.java:777) ~[htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$HtmlUnitContextAction.run(JavaScriptEngine.java:889) ~[htmlunit-2.22.jar:2.22]
+	... 49 more
+2016-07-15 18:37:04 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'text/javascript'.
+2016-07-15 18:37:27 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'text/javascript'.
+2016-07-15 18:37:27 [main] ERROR StrictErrorReporter:82 - runtimeError: message=[Property 1 not found.] sourceName=[http://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-56aad7f2f0636a6b] line=[2] lineSource=[null] lineOffset=[0]
+2016-07-15 18:53:26 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 18:53:26 [main] INFO  InputElementFactory:178 - Bad input type: "email", creating a text input
+2016-07-15 18:53:27 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 18:53:28 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 18:53:28 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 18:53:28 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 18:53:28 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 18:53:28 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 18:53:28 [main] INFO  WebConsole:422 - 
+
+
+                                            
+ .d8888b.  888                       888    
+d88P  Y88b 888                       888    
+Y88b.      888                       888    
+ "Y888b.   888888  .d88b.  88888b.   888    這是專門提供給開發人員的瀏覽器功能。如果有人告訴你在此處複製貼上某些內容可以使用某個 
+    "Y88b. 888    d88""88b 888 "88b  888    Facebook 功能或「駭入」其他人的帳號，那其實是不實的詐騙訊息，並且會讓不法之徒有機會存取你的 
+      "888 888    888  888 888  888  Y8P    Facebook 帳號。
+Y88b  d88P Y88b.  Y88..88P 888 d88P         
+ "Y8888P"   "Y888  "Y88P"  88888P"   888    
+                           888              
+                           888              
+                           888              
+
+查看https://www.facebook.com/selfxss以獲得更多訊息。
+
+2016-07-15 18:53:29 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 18:53:30 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 18:53:30 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 18:53:31 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 18:53:31 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 18:54:18 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 18:54:19 [main] INFO  InputElementFactory:178 - Bad input type: "email", creating a text input
+2016-07-15 18:54:31 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 18:54:32 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 18:54:36 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 18:54:44 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 18:54:44 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 18:54:44 [main] INFO  WebConsole:422 - 
+
+
+                                            
+ .d8888b.  888                       888    
+d88P  Y88b 888                       888    
+Y88b.      888                       888    
+ "Y888b.   888888  .d88b.  88888b.   888    這是專門提供給開發人員的瀏覽器功能。如果有人告訴你在此處複製貼上某些內容可以使用某個 
+    "Y88b. 888    d88""88b 888 "88b  888    Facebook 功能或「駭入」其他人的帳號，那其實是不實的詐騙訊息，並且會讓不法之徒有機會存取你的 
+      "888 888    888  888 888  888  Y8P    Facebook 帳號。
+Y88b  d88P Y88b.  Y88..88P 888 d88P         
+ "Y8888P"   "Y888  "Y88P"  88888P"   888    
+                           888              
+                           888              
+                           888              
+
+查看https://www.facebook.com/selfxss以獲得更多訊息。
+
+2016-07-15 18:55:01 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 18:55:01 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 18:55:26 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 18:55:50 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 18:55:51 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 18:57:09 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 18:57:09 [main] INFO  InputElementFactory:178 - Bad input type: "email", creating a text input
+2016-07-15 18:57:10 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 18:57:12 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 18:57:12 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 18:57:13 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 18:57:13 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 18:57:13 [main] INFO  WebConsole:422 - 
+
+
+                                            
+ .d8888b.  888                       888    
+d88P  Y88b 888                       888    
+Y88b.      888                       888    
+ "Y888b.   888888  .d88b.  88888b.   888    這是專門提供給開發人員的瀏覽器功能。如果有人告訴你在此處複製貼上某些內容可以使用某個 
+    "Y88b. 888    d88""88b 888 "88b  888    Facebook 功能或「駭入」其他人的帳號，那其實是不實的詐騙訊息，並且會讓不法之徒有機會存取你的 
+      "888 888    888  888 888  888  Y8P    Facebook 帳號。
+Y88b  d88P Y88b.  Y88..88P 888 d88P         
+ "Y8888P"   "Y888  "Y88P"  88888P"   888    
+                           888              
+                           888              
+                           888              
+
+查看https://www.facebook.com/selfxss以獲得更多訊息。
+
+2016-07-15 18:57:13 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 18:57:14 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 18:57:14 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 18:57:16 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 18:57:16 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 18:57:24 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 18:57:26 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 18:57:27 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 18:57:30 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 18:57:34 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 18:57:34 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 18:57:35 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 18:57:35 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 18:57:35 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 18:57:35 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 18:57:35 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 18:57:37 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 18:57:38 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 18:57:38 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 18:57:38 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 18:57:38 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 18:57:38 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 18:57:38 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 18:58:04 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 18:58:07 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 18:58:15 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 18:58:15 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 18:58:18 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 18:58:30 [main] INFO  RetryExec:96 - I/O exception (java.net.SocketException) caught when processing request to {s}->https://static.xx.fbcdn.net:443: Connection reset
+2016-07-15 18:58:30 [main] INFO  RetryExec:112 - Retrying request to {s}->https://static.xx.fbcdn.net:443
+2016-07-15 18:58:41 [main] ERROR HtmlPage:970 - Error loading JavaScript from [https://static.xx.fbcdn.net/rsrc.php/v2/y4/r/R9GKCzjAnbk.js].
+java.net.UnknownHostException: 这是在主机名解析时通常出现的暂时错误，它意味着本地服务器没有从权威服务器上收到响应。
+	at java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method) ~[?:1.8.0_05]
+	at java.net.InetAddress$2.lookupAllHostAddr(InetAddress.java:907) ~[?:1.8.0_05]
+	at java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1302) ~[?:1.8.0_05]
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1255) ~[?:1.8.0_05]
+	at java.net.InetAddress.getAllByName(InetAddress.java:1171) ~[?:1.8.0_05]
+	at java.net.InetAddress.getAllByName(InetAddress.java:1105) ~[?:1.8.0_05]
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45) ~[httpclient-4.5.2.jar:4.5.2]
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:111) ~[httpclient-4.5.2.jar:4.5.2]
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:353) ~[httpclient-4.5.2.jar:4.5.2]
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:380) ~[httpclient-4.5.2.jar:4.5.2]
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236) ~[httpclient-4.5.2.jar:4.5.2]
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:184) ~[httpclient-4.5.2.jar:4.5.2]
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:88) ~[httpclient-4.5.2.jar:4.5.2]
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110) ~[httpclient-4.5.2.jar:4.5.2]
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184) ~[httpclient-4.5.2.jar:4.5.2]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:71) ~[httpclient-4.5.2.jar:4.5.2]
+	at com.gargoylesoftware.htmlunit.HttpWebConnection.getResponse(HttpWebConnection.java:183) ~[htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.WebClient.loadWebResponseFromWebConnection(WebClient.java:1351) ~[htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.WebClient.loadWebResponse(WebClient.java:1268) ~[htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.loadJavaScriptFromUrl(HtmlPage.java:1024) ~[htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.loadExternalJavaScriptFile(HtmlPage.java:967) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HtmlScript.executeScriptIfNeeded(HtmlScript.java:352) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HtmlScript$2.execute(HtmlScript.java:238) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.doProcessPostponedActions(JavaScriptEngine.java:952) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.access$500(JavaScriptEngine.java:97) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$HtmlUnitContextAction.run(JavaScriptEngine.java:899) [htmlunit-2.22.jar:2.22]
+	at net.sourceforge.htmlunit.corejs.javascript.Context.call(Context.java:628) [htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.ContextFactory.call(ContextFactory.java:515) [htmlunit-core-js-2.22.jar:?]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.callFunction(JavaScriptEngine.java:835) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.callFunction(JavaScriptEngine.java:807) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.InteractivePage.executeJavaScriptFunctionIfPossible(InteractivePage.java:216) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.javascript.host.event.EventListenersContainer.executeEventHandler(EventListenersContainer.java:295) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.javascript.host.event.EventListenersContainer.executeBubblingListeners(EventListenersContainer.java:315) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.javascript.host.event.EventTarget.fireEvent(EventTarget.java:206) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.DomElement$2.run(DomElement.java:1180) [htmlunit-2.22.jar:2.22]
+	at net.sourceforge.htmlunit.corejs.javascript.Context.call(Context.java:628) [htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.ContextFactory.call(ContextFactory.java:515) [htmlunit-core-js-2.22.jar:?]
+	at com.gargoylesoftware.htmlunit.html.DomElement.fireEvent(DomElement.java:1185) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.executeEventHandlersIfNeeded(HtmlPage.java:1213) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.initialize(HtmlPage.java:272) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.WebClient.loadWebResponseInto(WebClient.java:518) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:385) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:303) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:450) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:435) [htmlunit-2.22.jar:2.22]
+	at sample.crawler.JSCrawler.main(JSCrawler.java:24) [classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_05]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_05]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_05]
+	at java.lang.reflect.Method.invoke(Method.java:483) ~[?:1.8.0_05]
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:144) [idea_rt.jar:?]
+2016-07-15 18:58:41 [main] ERROR HtmlPage:970 - Error loading JavaScript from [https://static.xx.fbcdn.net/rsrc.php/v2/y2/r/JW0FqcBtd5W.js].
+java.net.UnknownHostException: static.xx.fbcdn.net
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1259) ~[?:1.8.0_05]
+	at java.net.InetAddress.getAllByName(InetAddress.java:1171) ~[?:1.8.0_05]
+	at java.net.InetAddress.getAllByName(InetAddress.java:1105) ~[?:1.8.0_05]
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45) ~[httpclient-4.5.2.jar:4.5.2]
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:111) ~[httpclient-4.5.2.jar:4.5.2]
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:353) ~[httpclient-4.5.2.jar:4.5.2]
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:380) ~[httpclient-4.5.2.jar:4.5.2]
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236) ~[httpclient-4.5.2.jar:4.5.2]
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:184) ~[httpclient-4.5.2.jar:4.5.2]
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:88) ~[httpclient-4.5.2.jar:4.5.2]
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110) ~[httpclient-4.5.2.jar:4.5.2]
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184) ~[httpclient-4.5.2.jar:4.5.2]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:71) ~[httpclient-4.5.2.jar:4.5.2]
+	at com.gargoylesoftware.htmlunit.HttpWebConnection.getResponse(HttpWebConnection.java:183) ~[htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.WebClient.loadWebResponseFromWebConnection(WebClient.java:1351) ~[htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.WebClient.loadWebResponse(WebClient.java:1268) ~[htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.loadJavaScriptFromUrl(HtmlPage.java:1024) ~[htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.loadExternalJavaScriptFile(HtmlPage.java:967) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HtmlScript.executeScriptIfNeeded(HtmlScript.java:352) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HtmlScript$2.execute(HtmlScript.java:238) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.doProcessPostponedActions(JavaScriptEngine.java:952) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.access$500(JavaScriptEngine.java:97) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$HtmlUnitContextAction.run(JavaScriptEngine.java:899) [htmlunit-2.22.jar:2.22]
+	at net.sourceforge.htmlunit.corejs.javascript.Context.call(Context.java:628) [htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.ContextFactory.call(ContextFactory.java:515) [htmlunit-core-js-2.22.jar:?]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.callFunction(JavaScriptEngine.java:835) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.callFunction(JavaScriptEngine.java:807) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.InteractivePage.executeJavaScriptFunctionIfPossible(InteractivePage.java:216) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.javascript.host.event.EventListenersContainer.executeEventHandler(EventListenersContainer.java:295) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.javascript.host.event.EventListenersContainer.executeBubblingListeners(EventListenersContainer.java:315) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.javascript.host.event.EventTarget.fireEvent(EventTarget.java:206) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.DomElement$2.run(DomElement.java:1180) [htmlunit-2.22.jar:2.22]
+	at net.sourceforge.htmlunit.corejs.javascript.Context.call(Context.java:628) [htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.ContextFactory.call(ContextFactory.java:515) [htmlunit-core-js-2.22.jar:?]
+	at com.gargoylesoftware.htmlunit.html.DomElement.fireEvent(DomElement.java:1185) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.executeEventHandlersIfNeeded(HtmlPage.java:1213) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.initialize(HtmlPage.java:272) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.WebClient.loadWebResponseInto(WebClient.java:518) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:385) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:303) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:450) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:435) [htmlunit-2.22.jar:2.22]
+	at sample.crawler.JSCrawler.main(JSCrawler.java:24) [classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_05]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_05]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_05]
+	at java.lang.reflect.Method.invoke(Method.java:483) ~[?:1.8.0_05]
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:144) [idea_rt.jar:?]
+2016-07-15 18:58:41 [main] ERROR HtmlPage:970 - Error loading JavaScript from [https://static.xx.fbcdn.net/rsrc.php/v2/yr/r/YnSasnyq68i.js].
+java.net.UnknownHostException: static.xx.fbcdn.net
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1259) ~[?:1.8.0_05]
+	at java.net.InetAddress.getAllByName(InetAddress.java:1171) ~[?:1.8.0_05]
+	at java.net.InetAddress.getAllByName(InetAddress.java:1105) ~[?:1.8.0_05]
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45) ~[httpclient-4.5.2.jar:4.5.2]
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:111) ~[httpclient-4.5.2.jar:4.5.2]
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:353) ~[httpclient-4.5.2.jar:4.5.2]
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:380) ~[httpclient-4.5.2.jar:4.5.2]
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236) ~[httpclient-4.5.2.jar:4.5.2]
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:184) ~[httpclient-4.5.2.jar:4.5.2]
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:88) ~[httpclient-4.5.2.jar:4.5.2]
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110) ~[httpclient-4.5.2.jar:4.5.2]
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184) ~[httpclient-4.5.2.jar:4.5.2]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:71) ~[httpclient-4.5.2.jar:4.5.2]
+	at com.gargoylesoftware.htmlunit.HttpWebConnection.getResponse(HttpWebConnection.java:183) ~[htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.WebClient.loadWebResponseFromWebConnection(WebClient.java:1351) ~[htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.WebClient.loadWebResponse(WebClient.java:1268) ~[htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.loadJavaScriptFromUrl(HtmlPage.java:1024) ~[htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.loadExternalJavaScriptFile(HtmlPage.java:967) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HtmlScript.executeScriptIfNeeded(HtmlScript.java:352) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HtmlScript$2.execute(HtmlScript.java:238) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.doProcessPostponedActions(JavaScriptEngine.java:952) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.access$500(JavaScriptEngine.java:97) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$HtmlUnitContextAction.run(JavaScriptEngine.java:899) [htmlunit-2.22.jar:2.22]
+	at net.sourceforge.htmlunit.corejs.javascript.Context.call(Context.java:628) [htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.ContextFactory.call(ContextFactory.java:515) [htmlunit-core-js-2.22.jar:?]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.callFunction(JavaScriptEngine.java:835) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.callFunction(JavaScriptEngine.java:807) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.InteractivePage.executeJavaScriptFunctionIfPossible(InteractivePage.java:216) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.javascript.host.event.EventListenersContainer.executeEventHandler(EventListenersContainer.java:295) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.javascript.host.event.EventListenersContainer.executeBubblingListeners(EventListenersContainer.java:315) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.javascript.host.event.EventTarget.fireEvent(EventTarget.java:206) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.DomElement$2.run(DomElement.java:1180) [htmlunit-2.22.jar:2.22]
+	at net.sourceforge.htmlunit.corejs.javascript.Context.call(Context.java:628) [htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.ContextFactory.call(ContextFactory.java:515) [htmlunit-core-js-2.22.jar:?]
+	at com.gargoylesoftware.htmlunit.html.DomElement.fireEvent(DomElement.java:1185) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.executeEventHandlersIfNeeded(HtmlPage.java:1213) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.initialize(HtmlPage.java:272) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.WebClient.loadWebResponseInto(WebClient.java:518) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:385) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:303) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:450) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:435) [htmlunit-2.22.jar:2.22]
+	at sample.crawler.JSCrawler.main(JSCrawler.java:24) [classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_05]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_05]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_05]
+	at java.lang.reflect.Method.invoke(Method.java:483) ~[?:1.8.0_05]
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:144) [idea_rt.jar:?]
+2016-07-15 18:58:41 [main] ERROR HtmlPage:970 - Error loading JavaScript from [https://static.xx.fbcdn.net/rsrc.php/v2/yU/r/kQf_jlUv-kX.js].
+java.net.UnknownHostException: static.xx.fbcdn.net
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1259) ~[?:1.8.0_05]
+	at java.net.InetAddress.getAllByName(InetAddress.java:1171) ~[?:1.8.0_05]
+	at java.net.InetAddress.getAllByName(InetAddress.java:1105) ~[?:1.8.0_05]
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45) ~[httpclient-4.5.2.jar:4.5.2]
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:111) ~[httpclient-4.5.2.jar:4.5.2]
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:353) ~[httpclient-4.5.2.jar:4.5.2]
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:380) ~[httpclient-4.5.2.jar:4.5.2]
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236) ~[httpclient-4.5.2.jar:4.5.2]
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:184) ~[httpclient-4.5.2.jar:4.5.2]
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:88) ~[httpclient-4.5.2.jar:4.5.2]
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110) ~[httpclient-4.5.2.jar:4.5.2]
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184) ~[httpclient-4.5.2.jar:4.5.2]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:71) ~[httpclient-4.5.2.jar:4.5.2]
+	at com.gargoylesoftware.htmlunit.HttpWebConnection.getResponse(HttpWebConnection.java:183) ~[htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.WebClient.loadWebResponseFromWebConnection(WebClient.java:1351) ~[htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.WebClient.loadWebResponse(WebClient.java:1268) ~[htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.loadJavaScriptFromUrl(HtmlPage.java:1024) ~[htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.loadExternalJavaScriptFile(HtmlPage.java:967) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HtmlScript.executeScriptIfNeeded(HtmlScript.java:352) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HtmlScript$2.execute(HtmlScript.java:238) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.doProcessPostponedActions(JavaScriptEngine.java:952) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.access$500(JavaScriptEngine.java:97) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$HtmlUnitContextAction.run(JavaScriptEngine.java:899) [htmlunit-2.22.jar:2.22]
+	at net.sourceforge.htmlunit.corejs.javascript.Context.call(Context.java:628) [htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.ContextFactory.call(ContextFactory.java:515) [htmlunit-core-js-2.22.jar:?]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.callFunction(JavaScriptEngine.java:835) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.callFunction(JavaScriptEngine.java:807) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.InteractivePage.executeJavaScriptFunctionIfPossible(InteractivePage.java:216) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.javascript.host.event.EventListenersContainer.executeEventHandler(EventListenersContainer.java:295) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.javascript.host.event.EventListenersContainer.executeBubblingListeners(EventListenersContainer.java:315) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.javascript.host.event.EventTarget.fireEvent(EventTarget.java:206) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.DomElement$2.run(DomElement.java:1180) [htmlunit-2.22.jar:2.22]
+	at net.sourceforge.htmlunit.corejs.javascript.Context.call(Context.java:628) [htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.ContextFactory.call(ContextFactory.java:515) [htmlunit-core-js-2.22.jar:?]
+	at com.gargoylesoftware.htmlunit.html.DomElement.fireEvent(DomElement.java:1185) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.executeEventHandlersIfNeeded(HtmlPage.java:1213) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.initialize(HtmlPage.java:272) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.WebClient.loadWebResponseInto(WebClient.java:518) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:385) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:303) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:450) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:435) [htmlunit-2.22.jar:2.22]
+	at sample.crawler.JSCrawler.main(JSCrawler.java:24) [classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_05]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_05]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_05]
+	at java.lang.reflect.Method.invoke(Method.java:483) ~[?:1.8.0_05]
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:144) [idea_rt.jar:?]
+2016-07-15 19:02:34 [main] WARN  HtmlScript:425 - Script is not JavaScript (type: application/ld+json, language: ). Skipping execution.
+2016-07-15 19:02:35 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 19:02:35 [main] INFO  InputElementFactory:178 - Bad input type: "email", creating a text input
+2016-07-15 19:02:36 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 19:02:36 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 19:02:36 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 19:02:36 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 19:02:36 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 19:02:36 [main] INFO  WebConsole:422 - 
+
+
+                                            
+ .d8888b.  888                       888    
+d88P  Y88b 888                       888    
+Y88b.      888                       888    This is a browser feature intended for 
+ "Y888b.   888888  .d88b.  88888b.   888    developers. If someone told you to copy-paste 
+    "Y88b. 888    d88""88b 888 "88b  888    something here to enable a Facebook feature 
+      "888 888    888  888 888  888  Y8P    or "hack" someone's account, it is a 
+Y88b  d88P Y88b.  Y88..88P 888 d88P         scam and will give them access to your 
+ "Y8888P"   "Y888  "Y88P"  88888P"   888    Facebook account.
+                           888              
+                           888              
+                           888              
+
+See https://www.facebook.com/selfxss for more information.
+
+2016-07-15 19:02:36 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 19:02:37 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 19:02:37 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 19:02:37 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 19:02:38 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 19:02:43 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 19:02:45 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 19:02:52 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 19:02:52 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 19:02:52 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 19:02:52 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 19:02:53 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 19:02:53 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-15 19:02:53 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'application/x-javascript'.
+2016-07-18 09:48:33 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'text/javascript'.
+2016-07-18 09:48:33 [main] WARN  IncorrectnessListenerImpl:38 - Expected content type of 'application/javascript' or 'application/ecmascript' for remotely loaded JavaScript element at 'http://fg.jiathis.com/cm.js?p=3752&k=B699A0CCE5009DE9&g=bdb585e57ad14bfda6a1696e8bd35b5b&lp=http%3A%2F%2Fen.people.cn%2Fn3%2F2016%2F0715%2Fc90000-9086529.html&ti=History+will+tell+the+true+guardian+of+South+China+Sea+peace%3A+People%E2%80%99s+Daily+-+People%27s+Daily+Online&rf=', but got 'text/plain'.
+2016-07-18 09:48:33 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'text/javascript'.
+2016-07-18 09:48:35 [main] INFO  JavaScriptEngine:1006 - Caught script exception
+com.gargoylesoftware.htmlunit.ScriptException: Exception invoking Window.getComputedStyle() with arguments [HTMLDocument, String]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$HtmlUnitContextAction.run(JavaScriptEngine.java:904) [htmlunit-2.22.jar:2.22]
+	at net.sourceforge.htmlunit.corejs.javascript.Context.call(Context.java:628) [htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.ContextFactory.call(ContextFactory.java:515) [htmlunit-core-js-2.22.jar:?]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.execute(JavaScriptEngine.java:786) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.execute(JavaScriptEngine.java:762) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.loadExternalJavaScriptFile(HtmlPage.java:990) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HtmlScript.executeScriptIfNeeded(HtmlScript.java:352) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HtmlScript$2.execute(HtmlScript.java:238) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.doProcessPostponedActions(JavaScriptEngine.java:952) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.access$500(JavaScriptEngine.java:97) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$HtmlUnitContextAction.run(JavaScriptEngine.java:899) [htmlunit-2.22.jar:2.22]
+	at net.sourceforge.htmlunit.corejs.javascript.Context.call(Context.java:628) [htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.ContextFactory.call(ContextFactory.java:515) [htmlunit-core-js-2.22.jar:?]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.execute(JavaScriptEngine.java:786) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.execute(JavaScriptEngine.java:762) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.execute(JavaScriptEngine.java:750) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.executeJavaScriptIfPossible(HtmlPage.java:902) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HtmlScript.executeInlineScriptIfNeeded(HtmlScript.java:307) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HtmlScript.executeScriptIfNeeded(HtmlScript.java:368) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HtmlScript$2.execute(HtmlScript.java:238) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HtmlScript.onAllChildrenAddedToPage(HtmlScript.java:257) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HTMLParser$HtmlUnitDOMBuilder.endElement(HTMLParser.java:772) [htmlunit-2.22.jar:2.22]
+	at org.apache.xerces.parsers.AbstractSAXParser.endElement(Unknown Source) [xercesImpl-2.11.0.jar:?]
+	at com.gargoylesoftware.htmlunit.html.HTMLParser$HtmlUnitDOMBuilder.endElement(HTMLParser.java:729) [htmlunit-2.22.jar:2.22]
+	at net.sourceforge.htmlunit.cyberneko.HTMLTagBalancer.callEndElement(HTMLTagBalancer.java:1209) [neko-htmlunit-2.21.jar:?]
+	at net.sourceforge.htmlunit.cyberneko.HTMLTagBalancer.endElement(HTMLTagBalancer.java:1111) [neko-htmlunit-2.21.jar:?]
+	at net.sourceforge.htmlunit.cyberneko.filters.DefaultFilter.endElement(DefaultFilter.java:207) [neko-htmlunit-2.21.jar:?]
+	at net.sourceforge.htmlunit.cyberneko.filters.NamespaceBinder.endElement(NamespaceBinder.java:337) [neko-htmlunit-2.21.jar:?]
+	at net.sourceforge.htmlunit.cyberneko.HTMLScanner$ContentScanner.scanEndElement(HTMLScanner.java:3137) [neko-htmlunit-2.21.jar:?]
+	at net.sourceforge.htmlunit.cyberneko.HTMLScanner$ContentScanner.scan(HTMLScanner.java:2100) [neko-htmlunit-2.21.jar:?]
+	at net.sourceforge.htmlunit.cyberneko.HTMLScanner.scanDocument(HTMLScanner.java:927) [neko-htmlunit-2.21.jar:?]
+	at net.sourceforge.htmlunit.cyberneko.HTMLConfiguration.parse(HTMLConfiguration.java:506) [neko-htmlunit-2.21.jar:?]
+	at net.sourceforge.htmlunit.cyberneko.HTMLConfiguration.parse(HTMLConfiguration.java:459) [neko-htmlunit-2.21.jar:?]
+	at org.apache.xerces.parsers.XMLParser.parse(Unknown Source) [xercesImpl-2.11.0.jar:?]
+	at com.gargoylesoftware.htmlunit.html.HTMLParser$HtmlUnitDOMBuilder.parse(HTMLParser.java:979) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HTMLParser.parse(HTMLParser.java:241) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HTMLParser.parseHtml(HTMLParser.java:187) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.DefaultPageCreator.createHtmlPage(DefaultPageCreator.java:269) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.DefaultPageCreator.createPage(DefaultPageCreator.java:157) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.WebClient.loadWebResponseInto(WebClient.java:511) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:385) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:303) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:450) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:435) [htmlunit-2.22.jar:2.22]
+	at sample.RenmingNews.main(RenmingNews.java:35) [classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_05]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_05]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_05]
+	at java.lang.reflect.Method.invoke(Method.java:483) ~[?:1.8.0_05]
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:144) [idea_rt.jar:?]
+Caused by: java.lang.IllegalArgumentException: Exception invoking Window.getComputedStyle() with arguments [HTMLDocument, String]
+	at net.sourceforge.htmlunit.corejs.javascript.MemberBox.invoke(MemberBox.java:195) ~[htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.FunctionObject.call(FunctionObject.java:448) ~[htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.Interpreter.interpretLoop(Interpreter.java:1540) ~[htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.Interpreter.interpret(Interpreter.java:800) ~[htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.InterpretedFunction.call(InterpretedFunction.java:105) ~[htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.ContextFactory.doTopCall(ContextFactory.java:413) ~[htmlunit-core-js-2.22.jar:?]
+	at com.gargoylesoftware.htmlunit.javascript.HtmlUnitContextFactory.doTopCall(HtmlUnitContextFactory.java:252) ~[htmlunit-2.22.jar:2.22]
+	at net.sourceforge.htmlunit.corejs.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3264) ~[htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.InterpretedFunction.exec(InterpretedFunction.java:115) ~[htmlunit-core-js-2.22.jar:?]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$3.doRun(JavaScriptEngine.java:777) ~[htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$HtmlUnitContextAction.run(JavaScriptEngine.java:889) ~[htmlunit-2.22.jar:2.22]
+	... 49 more
+Caused by: java.lang.IllegalArgumentException: argument type mismatch
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_05]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_05]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_05]
+	at java.lang.reflect.Method.invoke(Method.java:483) ~[?:1.8.0_05]
+	at net.sourceforge.htmlunit.corejs.javascript.MemberBox.invoke(MemberBox.java:153) ~[htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.FunctionObject.call(FunctionObject.java:448) ~[htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.Interpreter.interpretLoop(Interpreter.java:1540) ~[htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.Interpreter.interpret(Interpreter.java:800) ~[htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.InterpretedFunction.call(InterpretedFunction.java:105) ~[htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.ContextFactory.doTopCall(ContextFactory.java:413) ~[htmlunit-core-js-2.22.jar:?]
+	at com.gargoylesoftware.htmlunit.javascript.HtmlUnitContextFactory.doTopCall(HtmlUnitContextFactory.java:252) ~[htmlunit-2.22.jar:2.22]
+	at net.sourceforge.htmlunit.corejs.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3264) ~[htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.InterpretedFunction.exec(InterpretedFunction.java:115) ~[htmlunit-core-js-2.22.jar:?]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$3.doRun(JavaScriptEngine.java:777) ~[htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$HtmlUnitContextAction.run(JavaScriptEngine.java:889) ~[htmlunit-2.22.jar:2.22]
+	... 49 more
+2016-07-18 09:48:35 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'text/javascript'.
+2016-07-18 09:48:36 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'text/javascript'.
+2016-07-18 09:48:36 [main] ERROR StrictErrorReporter:82 - runtimeError: message=[Property 1 not found.] sourceName=[http://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-56aad7f2f0636a6b] line=[2] lineSource=[null] lineOffset=[0]
+2016-07-18 09:52:42 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'text/javascript'.
+2016-07-18 09:52:42 [main] WARN  IncorrectnessListenerImpl:38 - Expected content type of 'application/javascript' or 'application/ecmascript' for remotely loaded JavaScript element at 'http://fg.jiathis.com/cm.js?p=3752&k=B699A0CCE5009DE9&g=65b51bcd0f3a4319b9d08461fc60cb14&lp=http%3A%2F%2Fen.people.cn%2Fn3%2F2016%2F0715%2Fc90000-9086529.html&ti=History+will+tell+the+true+guardian+of+South+China+Sea+peace%3A+People%E2%80%99s+Daily+-+People%27s+Daily+Online&rf=', but got 'text/plain'.
+2016-07-18 09:52:42 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'text/javascript'.
+2016-07-18 09:52:44 [main] INFO  JavaScriptEngine:1006 - Caught script exception
+com.gargoylesoftware.htmlunit.ScriptException: Exception invoking Window.getComputedStyle() with arguments [HTMLDocument, String]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$HtmlUnitContextAction.run(JavaScriptEngine.java:904) [htmlunit-2.22.jar:2.22]
+	at net.sourceforge.htmlunit.corejs.javascript.Context.call(Context.java:628) [htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.ContextFactory.call(ContextFactory.java:515) [htmlunit-core-js-2.22.jar:?]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.execute(JavaScriptEngine.java:786) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.execute(JavaScriptEngine.java:762) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.loadExternalJavaScriptFile(HtmlPage.java:990) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HtmlScript.executeScriptIfNeeded(HtmlScript.java:352) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HtmlScript$2.execute(HtmlScript.java:238) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.doProcessPostponedActions(JavaScriptEngine.java:952) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.access$500(JavaScriptEngine.java:97) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$HtmlUnitContextAction.run(JavaScriptEngine.java:899) [htmlunit-2.22.jar:2.22]
+	at net.sourceforge.htmlunit.corejs.javascript.Context.call(Context.java:628) [htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.ContextFactory.call(ContextFactory.java:515) [htmlunit-core-js-2.22.jar:?]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.execute(JavaScriptEngine.java:786) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.execute(JavaScriptEngine.java:762) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine.execute(JavaScriptEngine.java:750) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HtmlPage.executeJavaScriptIfPossible(HtmlPage.java:902) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HtmlScript.executeInlineScriptIfNeeded(HtmlScript.java:307) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HtmlScript.executeScriptIfNeeded(HtmlScript.java:368) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HtmlScript$2.execute(HtmlScript.java:238) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HtmlScript.onAllChildrenAddedToPage(HtmlScript.java:257) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HTMLParser$HtmlUnitDOMBuilder.endElement(HTMLParser.java:772) [htmlunit-2.22.jar:2.22]
+	at org.apache.xerces.parsers.AbstractSAXParser.endElement(Unknown Source) [xercesImpl-2.11.0.jar:?]
+	at com.gargoylesoftware.htmlunit.html.HTMLParser$HtmlUnitDOMBuilder.endElement(HTMLParser.java:729) [htmlunit-2.22.jar:2.22]
+	at net.sourceforge.htmlunit.cyberneko.HTMLTagBalancer.callEndElement(HTMLTagBalancer.java:1209) [neko-htmlunit-2.21.jar:?]
+	at net.sourceforge.htmlunit.cyberneko.HTMLTagBalancer.endElement(HTMLTagBalancer.java:1111) [neko-htmlunit-2.21.jar:?]
+	at net.sourceforge.htmlunit.cyberneko.filters.DefaultFilter.endElement(DefaultFilter.java:207) [neko-htmlunit-2.21.jar:?]
+	at net.sourceforge.htmlunit.cyberneko.filters.NamespaceBinder.endElement(NamespaceBinder.java:337) [neko-htmlunit-2.21.jar:?]
+	at net.sourceforge.htmlunit.cyberneko.HTMLScanner$ContentScanner.scanEndElement(HTMLScanner.java:3137) [neko-htmlunit-2.21.jar:?]
+	at net.sourceforge.htmlunit.cyberneko.HTMLScanner$ContentScanner.scan(HTMLScanner.java:2100) [neko-htmlunit-2.21.jar:?]
+	at net.sourceforge.htmlunit.cyberneko.HTMLScanner.scanDocument(HTMLScanner.java:927) [neko-htmlunit-2.21.jar:?]
+	at net.sourceforge.htmlunit.cyberneko.HTMLConfiguration.parse(HTMLConfiguration.java:506) [neko-htmlunit-2.21.jar:?]
+	at net.sourceforge.htmlunit.cyberneko.HTMLConfiguration.parse(HTMLConfiguration.java:459) [neko-htmlunit-2.21.jar:?]
+	at org.apache.xerces.parsers.XMLParser.parse(Unknown Source) [xercesImpl-2.11.0.jar:?]
+	at com.gargoylesoftware.htmlunit.html.HTMLParser$HtmlUnitDOMBuilder.parse(HTMLParser.java:979) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HTMLParser.parse(HTMLParser.java:241) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.html.HTMLParser.parseHtml(HTMLParser.java:187) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.DefaultPageCreator.createHtmlPage(DefaultPageCreator.java:269) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.DefaultPageCreator.createPage(DefaultPageCreator.java:157) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.WebClient.loadWebResponseInto(WebClient.java:511) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:385) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:303) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:450) [htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.WebClient.getPage(WebClient.java:435) [htmlunit-2.22.jar:2.22]
+	at sample.RenmingNews.main(RenmingNews.java:35) [classes/:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_05]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_05]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_05]
+	at java.lang.reflect.Method.invoke(Method.java:483) ~[?:1.8.0_05]
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:144) [idea_rt.jar:?]
+Caused by: java.lang.IllegalArgumentException: Exception invoking Window.getComputedStyle() with arguments [HTMLDocument, String]
+	at net.sourceforge.htmlunit.corejs.javascript.MemberBox.invoke(MemberBox.java:195) ~[htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.FunctionObject.call(FunctionObject.java:448) ~[htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.Interpreter.interpretLoop(Interpreter.java:1540) ~[htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.Interpreter.interpret(Interpreter.java:800) ~[htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.InterpretedFunction.call(InterpretedFunction.java:105) ~[htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.ContextFactory.doTopCall(ContextFactory.java:413) ~[htmlunit-core-js-2.22.jar:?]
+	at com.gargoylesoftware.htmlunit.javascript.HtmlUnitContextFactory.doTopCall(HtmlUnitContextFactory.java:252) ~[htmlunit-2.22.jar:2.22]
+	at net.sourceforge.htmlunit.corejs.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3264) ~[htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.InterpretedFunction.exec(InterpretedFunction.java:115) ~[htmlunit-core-js-2.22.jar:?]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$3.doRun(JavaScriptEngine.java:777) ~[htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$HtmlUnitContextAction.run(JavaScriptEngine.java:889) ~[htmlunit-2.22.jar:2.22]
+	... 49 more
+Caused by: java.lang.IllegalArgumentException: argument type mismatch
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_05]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_05]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_05]
+	at java.lang.reflect.Method.invoke(Method.java:483) ~[?:1.8.0_05]
+	at net.sourceforge.htmlunit.corejs.javascript.MemberBox.invoke(MemberBox.java:153) ~[htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.FunctionObject.call(FunctionObject.java:448) ~[htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.Interpreter.interpretLoop(Interpreter.java:1540) ~[htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.Interpreter.interpret(Interpreter.java:800) ~[htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.InterpretedFunction.call(InterpretedFunction.java:105) ~[htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.ContextFactory.doTopCall(ContextFactory.java:413) ~[htmlunit-core-js-2.22.jar:?]
+	at com.gargoylesoftware.htmlunit.javascript.HtmlUnitContextFactory.doTopCall(HtmlUnitContextFactory.java:252) ~[htmlunit-2.22.jar:2.22]
+	at net.sourceforge.htmlunit.corejs.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:3264) ~[htmlunit-core-js-2.22.jar:?]
+	at net.sourceforge.htmlunit.corejs.javascript.InterpretedFunction.exec(InterpretedFunction.java:115) ~[htmlunit-core-js-2.22.jar:?]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$3.doRun(JavaScriptEngine.java:777) ~[htmlunit-2.22.jar:2.22]
+	at com.gargoylesoftware.htmlunit.javascript.JavaScriptEngine$HtmlUnitContextAction.run(JavaScriptEngine.java:889) ~[htmlunit-2.22.jar:2.22]
+	... 49 more
+2016-07-18 09:52:45 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'text/javascript'.
+2016-07-18 09:52:46 [main] WARN  IncorrectnessListenerImpl:38 - Obsolete content type encountered: 'text/javascript'.
+2016-07-18 09:52:46 [main] ERROR StrictErrorReporter:82 - runtimeError: message=[Property 1 not found.] sourceName=[http://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-56aad7f2f0636a6b] line=[2] lineSource=[null] lineOffset=[0]
+2016-07-18 10:08:35 [main] WARN  HtmlScript:425 - Script is not JavaScript (type: text/json, language: ). Skipping execution.
+2016-07-18 10:08:35 [main] WARN  HtmlScript:425 - Script is not JavaScript (type: text/json, language: ). Skipping execution.
+2016-07-18 10:08:35 [main] WARN  HtmlScript:425 - Script is not JavaScript (type: text/json, language: ). Skipping execution.
+2016-07-18 10:28:14 [main] WARN  HtmlScript:425 - Script is not JavaScript (type: text/json, language: ). Skipping execution.
+2016-07-18 10:28:14 [main] WARN  HtmlScript:425 - Script is not JavaScript (type: text/json, language: ). Skipping execution.
+2016-07-18 10:28:14 [main] WARN  HtmlScript:425 - Script is not JavaScript (type: text/json, language: ). Skipping execution.

@@ -1,0 +1,286 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+<meta http-equiv="Content-Language" content="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta content="all" name="robots" />
+<meta name="copyright" content="" />
+<title>History will tell the true guardian of South China Sea peace: People’s Daily - People's Daily Online</title>
+<meta name="description" content="China sticks to the path of peaceful development, and the history will finally tell who is the real guardian of peace and stability in the South China Sea, People’s Daily said on Thursday, refuting those who have attempted to escalate regional tensions by capping China as “saboteur” of regional peace." />
+<meta name="keywords" content="South China Sea,arbitration,People's Daily" />
+<meta name="filetype" content="0" />
+<meta name="publishedtype" content="1" />
+<meta name="pagetype" content="1" />
+<meta name="catalogs" content="F_90000" />
+<meta name="contentid" content="F_9086529" />
+<meta name="publishdate" content="2016-07-15" />
+<meta name="author" content="F_200775" />
+<meta name="source" content="source：People's Daily Online Original" />
+<meta name="editor" content="F_200775">
+<meta name="sourcetype" content="8">
+<link href="/img/2013enpd/page.css" type="text/css" rel="stylesheet" media="all" />
+<link href="/img/2013enpd/print.css" type="text/css" rel="stylesheet" media="all" />
+<script src="/img/2013krban/js/swfobject.js" type="text/javascript"></script>
+<script src="/img/2011english/jquery-1.7.1.min.js" type="text/javascript"></script>
+<script src="/img/2013enpd/js/tab.js" type="text/javascript"></script>
+<script src="/img/2013lh_wwzt/js/jcarousellite_1.0.1.min.js" language="javascript" type="text/javascript"></script>
+<script src="/img/FOREIGN/2015/03/212677/js/top_home.js" type="text/javascript"></script>
+<script type="text/javascript">
+<!--
+function goto(){
+if (document.form1.content.value==null || document.form1.content.value=="" ) {
+		alert("Please write your message!");
+		return;
+	}
+	 else {
+		document.form1.submit();
+		}
+}
+function chakan()
+{
+window.open(url="http://posts.people.com.cn/bbs_new/app/src/main/?action=list&bid=5756750&channel_id=90000&id=9086529&lang=english");
+}
+-->
+</script>
+<!--[if lte IE 6]>
+<script src="http://cms0.peopledaily.cn/img/2013lh/DD_belatedPNG_0.0.8a-min.js" type="text/javascript"></script>
+<script type="text/javascript">
+DD_belatedPNG.fix('div, ul, img, li, input , a , td , em,h1 ,h2,h3,h4,h5,h6,em,i,p,');
+</script>
+<![endif]-->
+</head>
+<body>
+<!--top-->
+<div class="w980 top">
+	<div class="fl"><img src="/img/FOREIGN/2015/03/212677/images/logo.jpg" alt="" /></div>
+  	<div class="fr">
+    	<em class="ss1">
+        	<a href="https://www.facebook.com/PeoplesDaily" target="_blank"><img src="/NMediaFile/2015/0414/FOREIGN201504141507244204826189277.jpg" width="39" height="20" alt="Facebook"/></a>
+<a href="https://twitter.com/PDChina" target="_blank"><img src="/NMediaFile/2015/0414/FOREIGN201504141507322590406029541.jpg" width="39" height="20" alt="Twitter"/></a>
+<a href="http://weibo.com/u/2044859165" target="_blank"><img src="/NMediaFile/2015/0414/FOREIGN201504141507411639371362150.jpg" width="39" height="20" alt="新浪微博"/></a>
+<a href="https://instagram.com/peoples_daily/" target="_blank"><img src="/NMediaFile/2015/0630/FOREIGN201506300917511446401861612.jpg" width="39" height="20" alt="Instagram"/></a>
+<a href="https://www.youtube.com/user/PeoplesDailyonline" target="_blank"><img src="/NMediaFile/2015/0630/FOREIGN201506300935253054170867278.jpg" width="39" height="20" alt="YouTube"/></a>
+
+        </em>
+    	<span>Friday, Jul 15, 2016</span>
+        <div class="n n1">Search <img src="/img/FOREIGN/2015/03/212677/images/icon1.gif" alt="" /></div>
+    	<div class="n n2">Archive <img src="/img/FOREIGN/2015/03/212677/images/icon1.gif" alt="" /></div>
+        <div class="n n3">English <img src="/img/FOREIGN/2015/03/212677/images/icon1.gif" alt="" /></div>
+        <div class="topbox">
+        	<div class="sbg"><form action="http://search.people.com.cn/language/search.do" name="searchForm" method="post" target="_blank"><input type="hidden" name="dateFlag" value="false" /><input type="hidden" name="siteName" value="english"/><input type="hidden" name="pageNum" value="1"><input type="text" name="keyword" id="keyword" class="s1" value="" /><input type="image" name="button" id="button" value="search" src="/img/FOREIGN/2015/03/212677/images/icon2.gif" /></form></div>
+        </div>
+        <div class="topbox">
+            <div class="monthly"><iframe border="0" vspace="0" hspace="0" marginwidth="0" marginheight="0" framespacing="0" frameborder="0" scrolling="yes" width="210" height="190" src="http://en.people.cn/review/"></iframe></div>
+		</div>
+      	<div class="topbox2">
+            <div class="languages">
+                <ul><li><a href="http://www.people.com.cn/" target="_blank">Chinese</a></li>
+<li><a href="http://j.peopledaily.com.cn/" target="_blank">Japanese</a></li>
+<li><a href="http://french.people.com.cn/" target="_blank">French</a></li>
+<li><a href="http://spanish.people.com.cn/" target="_blank">Spanish</a></li>
+<li><a href="http://russian.people.com.cn/" target="_blank">Russian</a></li>
+<li><a href="http://arabic.people.com.cn/" target="_blank">Arabic</a></li>
+<li><a href="http://kr.people.com.cn/" target="_blank">Korea</a></li>
+<li><a href="http://german.people.com.cn/" target="_blank">German</a></li>
+<li><a href="http://portuguese.people.com.cn/" target="_blank">Portuguese</a></li></ul>
+            </div>
+        </div>
+  	</div>
+</div>
+<!--nav-->
+<div class="w980 nav"><b><a href="/index.html" target="_blank" class="one" target='_blank'>Home</a><a href="/90780/index.html" target="_blank" target='_blank'>Opinions</a><a href="/business/index.html" target="_blank" target='_blank'>Business</a><a href="/90786/index.html" target="_blank" target='_blank'>Military</a><a href="/90777/index.html" target="_blank" target='_blank'>World</a><a href="/90882/index.html" target="_blank" target='_blank'>Society</a><a href="/90782/index.html" target="_blank" target='_blank'>Culture</a><a href="/205040/index.html" target="_blank" target='_blank'>Travel</a><a href="/202936/index.html" target="_blank" target='_blank'>Science</a><a href="/90779/index.html" target="_blank" target='_blank'>Sports</a><a href="/102775/index.html" target="_blank" target='_blank'>Special Coverage</a><a href="/90783/index.html" target="_blank" target='_blank'>Photo</a><a href="/98389/index.html" target="_blank" target='_blank'>Video</a></b></div>
+<!--wb nav-->
+<div class="w980 wbnav clear"><a href="http://english.peopledaily.com.cn/" target="_blank">English</a>&gt;&gt;</div>
+<div class="w980 wb_10 clear">
+	<h1>History will tell the true guardian of South China Sea peace: People’s Daily</h1>
+    <div> (<a href="http://english.peopledaily.com.cn/">People's Daily Online</a>)&nbsp;&nbsp;&nbsp;&nbsp;09:32, July 15, 2016</div>
+</div>
+<div class="w980 wb_11 clear">
+    <div class="wb_2 wb_2b wb_2c wb_2d clear">
+        <!-- Go to www.addthis.com/dashboard to customize your tools -->
+		<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-56aad7f2f0636a6b" async="async"></script>
+		<!-- Go to www.addthis.com/dashboard to customize your tools -->
+		<div class="addthis_sharing_toolbox"></div>
+        <!-- JiaThis Button BEGIN -->
+        <div class="jiathis_style_24x24">
+            <a class="jiathis_button_weixin"></a>
+        </div>
+        <script type="text/javascript" src="http://v3.jiathis.com/code/jia.js?uid=" charset="utf-8"></script>
+        <!-- JiaThis Button END -->
+	</div>
+</div>
+<div class="page_pic">
+    <div class="pic">
+    	<div class="pic_txt"></div>
+	</div>
+    <div class="left_btn"></div>
+    <div class="right_btn"></div>
+</div>
+<div class="wb_12 clear">
+	<p>
+	<em><strong>&gt;&gt;Related:&nbsp;<a href="http://en.people.cn/n3/2016/0715/c90000-9086532.html" target="_blank">People’s Daily calls for return to negotiating table to resolve South China Sea dispute</a></strong></em></p>
+<p>
+	China sticks to the path of peaceful development, and the history will finally tell who is the real guardian of peace and stability in the South China Sea, People’s Daily said on Thursday, refuting those who have attempted to escalate regional tensions by capping China as “saboteur” of regional peace.</p>
+<p>
+	“China regards the South China Sea as a bond for peace, friendship, cooperation and development,” added the editorial published under pseudonym Zhong Sheng, a homonym in Chinese for “voice of China” that is often used to express the paper's views on foreign policy.</p>
+<p>
+	“The history will tell who is the guardian of peace and stability in the South China Sea and who is the staunch supporter of basic norms of the international law and international relations,” the editorial stressed.</p>
+<p style="text-align: center;">
+	<img alt="" src="/NMediaFile/2016/0715/FOREIGN201607150943000019897973134.jpg" style="width: 900px; height: 599px;" /></p>
+<p>
+	The following is the translation of the article:</p>
+<p>
+	China on Wednesday successfully tested two new airfields on the Nansha Islands with civil flights. Two airliners touched down for the first time on runways on Meiji Reef and Zhubi Reef, and returned to Haikou in the afternoon.</p>
+<p>
+	On the day before, civil calibration aircraft concluded test flights on the newly-built airports. The tests show that the airports are capable of supporting secure operation of civil aircraft.</p>
+<p>
+	This is a second successful test flight by China to Nansha Islands after an earlier flight to Yongshu Reef in January. It is justified and beyond reproach for China to charter passenger planes for test flights on newly-built airports within China’s territorial sovereignty.</p>
+<p>
+	However, those who try to stir up tension in the South China Sea cannot wait to contain China based on the so-called arbitration case. They always make irresponsible remarks and point fingers on this.</p>
+<p>
+	Despite of the clamor, most people can assume a serious attitude toward history and reasoned perspective on facts when reviewing the course of construction on islands and reefs in the South China Sea.</p>
+<p>
+	First of all, as a major power claiming indisputable sovereignty over Nansha Islands, China only carried out construction on seven islands and reefs within its control. Such acts have indicated China’s maximum restraint and utmost efforts in safeguarding peace and stability in the region.</p>
+<p>
+	Moreover, according to relevant international law and international practices, sovereign states are independently responsible for national aviation activities, and such activities shall not be subject to the Convention on International Civil Aviation and related regulations of the International Civil Aviation Organization.</p>
+<p>
+	These aviation activities conducted by China, with a civilian purpose, do not affect international public welfare agenda or the safety of international civil aviation transportation.</p>
+<p>
+	It falls completely within China’s sovereignty to independently conduct the calibration of the airports and test flights. The legitimate, reasonable and plausible move neither affects nor targets any country.</p>
+<p>
+	Last June, China voluntarily released the latest progress and purpose of the construction on relevant Nansha islands and reefs to the international community. Such confidence-building and clarification gesture fully demonstrates the transparency and legitimacy of China’s construction.</p>
+<p>
+	The construction done by China aims at providing better service for ships from China and other countries that pass through the South China Sea as well as meeting other civilian purposes.</p>
+<p>
+	When put into use, the newly built airports will significantly increase the service capability of air transportation in the South China Sea region and offer other services including aviation meteorology observation, emergency landing, maritime rescue, marine monitoring and environmental research.</p>
+<p>
+	Meanwhile, beacons built by China in the South China Sea can light up the way for passing merchant ships. The first hospital built by China on Nansha Islands improves the capacity for emergency humanitarian aid in the region.</p>
+<p>
+	As for people making groundless and vicious accusations against China, what have they done for the South China Sea? What are they doing now?</p>
+<p>
+	Since 1980s, the Philippines has been building military facilities on parts of Nansha Islands it illegally seized from China. During the 1990s, the Southeast Asian country continued to build airports and navy and air force bases on them, especially on the unlawfully occupied Zhongye Island. Military camps and ports were also renovated to accommodate more heavy transport, combat jets and warships.</p>
+<p>
+	Afterwards, the Philippines stepped up its maritime violation in a more aggravated manner. Abandoning the agreement to resolve disputes through bilateral negotiation and breaking its promises in the Declaration on the Conduct of Parties in the South China Sea, the Aquino III administration unilaterally initialed the so-called South China Sea arbitration case as an attempt to negate China’s territorial sovereignty and maritime rights and interests in the South China Sea.</p>
+<p>
+	As for the US, on the one hand, it overlooked the illegal construction by certain countries on China’s islands and reefs, and on the other hand, it sent warships from all the way across the Pacific Ocean to China’s coastal waters. The superpower even sought to increase military deployment in the Philippines and other neighboring countries in the South China Sea.</p>
+<p>
+	As the “mastermind” behind the South China Sea arbitration, the US immediately jumped out to endorse the illegal award on the day it was announced as if it would be too late to create obstacles for all sides to properly manage the maritime situation and peacefully resolve disputes.</p>
+<p>
+	The international community is perfectly clear that it was the US, the Aquino III administration and the temporary arbitration tribunal who created enormous risks for peace and stability in the South China Sea by abducting and damaging international rule of law as well as violating China’s rights and interest.</p>
+<p>
+	Time will reveal the truth. China, who sticks to the path of peaceful development, regards the South China Sea as a bridge connecting China and neighboring countries as well as a bond for peace, friendship, cooperation and development between them.</p>
+<p>
+	China will never change its determination because of provocation and incitement of certain countries. History will tell who is the guardian of peace and stability in the South China Sea and who is the staunch supporter of basic norms of the international law and international relations.&nbsp;</p>
+
+</div>
+<div class="wb_13b clear">(For the latest China news, Please follow People's Daily on <a href="http://www.twitter.com/PDChina" target="_blank"><span style="color: #0000ff">Twitter</span></a> and <a href="http://www.facebook.com/PeoplesDaily" target="_blank"><span style="color: #0000ff">Facebook</span></a>)</div>
+<div class="wb_13 clear">(Editor:Wu&nbsp;Chengliang,Bianji)</div>
+<div class="w980 wb_17 clear">
+	<div class="fl">
+    	<div class="p2_11 clear"><h3>Add your comment</h3></div>
+        <div id="disqus_thread"></div>
+    <script type="text/javascript">
+        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+        var shortname=window.location.host;
+		var disqus_shortname=''; 
+		var disqus_identifier='';
+		if (shortname=='en.people.cn')
+		{
+			disqus_shortname='enpeople';
+			disqus_identifier = '9086529';
+		}
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    
+    </div>
+    <div class="fr">
+    	<div class="p2_11 clear"><h3>Most Viewed</h3><p><span class="on">Day</span>|<span>Week</span></p></div>
+        <div class="p2_12 d2_4 clear">
+            <ul style="display:block;"><li><span>1</span><a href="/n3/2016/0714/c90000-9085753.html" title="People’s Daily slams South China Sea arbitration tribunal for being political tool" target=_blank>People’s Daily slams South China Sea arbitration tribunal f…</a></li><li><span>2</span><a href="/n3/2016/0714/c98649-9086130.html" target=_blank>China-made 3,000-ton frigate exported to North Africa</a></li><li><span>3</span><a href="/n3/2016/0714/c90883-9086059.html" title="UN &quot;distinct' from Hague-based Permanent Court of Arbitration" target=_blank>UN &quot;distinct' from Hague-based Permanent Court of Arbitrati…</a></li><li><span>4</span><a href="/n3/2016/0714/c90000-9086175.html" target=_blank>Experts refute rumors of Chinese satellite freefall</a></li><li><span>5</span><a href="/n3/2016/0714/c98649-9086042.html" title="58-meter-tall tower in Shandong demolished mechanically in 10 seconds " target=_blank>58-meter-tall tower in Shandong demolished mechanically in …</a></li></ul>
+            <ul><li><span>1</span><a href="/n3/2016/0712/c90000-9085051.html" title="S. China Sea arbitration: A US-led conspiracy behind the farce" target=_blank>S. China Sea arbitration: A US-led conspiracy behind the fa…</a></li><li><span>2</span><a href="/n3/2016/0712/c90000-9084833.html" target=_blank>The American hypocrisy when it comes to maritime rule of law</a></li><li><span>3</span><a href="/n3/2016/0711/c90000-9084277.html" target=_blank>The miracle called Communist Party of China</a></li><li><span>4</span><a href="/n3/2016/0712/c90000-9085054.html" title="China issues statement, reaffirming  territorial sovereignty and maritime rights and interests in the South China Sea" target=_blank>China issues statement, reaffirming  territorial sovereignt…</a></li><li><span>5</span><a href="/n3/2016/0711/c90000-9083919.html" title="Commentary: U.S. should stop treating South China Sea as next Caribbean" target=_blank>Commentary: U.S. should stop treating South China Sea as ne…</a></li></ul>
+            <ul><li><span>1</span><a href="/n3/2016/0622/c90000-9075995.html" target=_blank>Commentary: U.S. display of military power act of hegemony</a></li><li><span>2</span><a href="/n3/2016/0712/c90000-9085051.html" title="S. China Sea arbitration: A US-led conspiracy behind the farce" target=_blank>S. China Sea arbitration: A US-led conspiracy behind the fa…</a></li><li><span>3</span><a href="/n3/2016/0701/c98649-9080317.html" title="IKEA responds to photos of half-naked woman saying it has notified police" target=_blank>IKEA responds to photos of half-naked woman saying it has n…</a></li><li><span>4</span><a href="/n3/2016/0621/c90000-9074908.html" title="Bank to investigate into its branch spanking employees after video goes viral" target=_blank>Bank to investigate into its branch spanking employees afte…</a></li><li><span>5</span><a href="/n3/2016/0712/c90000-9084833.html" target=_blank>The American hypocrisy when it comes to maritime rule of law</a></li></ul>
+        </div>
+    </div>
+</div>
+<div class="w980 wb_14 clear">
+	<div class="fl">
+    	<div class="p2_11 clear"><h3>Hot News</h3></div>
+        <ul class="list_14d oh clear"><li><a href='/n3/2016/0612/c90000-9070731.html' target=_blank>Chinese company to test world's first single-passenger drone in US</a></li>
+<li><a href='/n3/2016/0705/c98649-9081737.html' target=_blank>7 Chinese creations that amaze the world</a></li>
+<li><a href='/n3/2016/0517/c98649-9058810.html' target=_blank>Woman with cancer stays optimistic by keeping a diary</a></li>
+<li><a href='/n3/2016/0517/c90000-9058831.html' target=_blank>South China Sea Fleet conduct anti-piracy drill in Indian Ocean</a></li>
+<li><a href='/n3/2016/0517/c98649-9058848.html' target=_blank>Magnificent Tianhetan waterfall</a></li>
+</ul>
+    </div>
+    <div class="fr">
+    	<div class="p2_11 clear"><h3>We Recommend</h3></div>
+        <ul class="list_14d oh clear"><li><a href='/n3/2016/0622/c90000-9075995.html' target=_blank>Commentary: U.S. display of military power act of hegemony</a></li>
+<li><a href='/n3/2016/0426/c90000-9049431.html' target=_blank>China's first intelligent security robot debuts in Chongqing</a></li>
+<li><a href='/n3/2016/0419/c90000-9046610.html' target=_blank>Asia's longest and highest suspension bridge to open to traffic</a></li>
+<li><a href='/n3/2016/0516/c98649-9058432.html' target=_blank>Cordyceps diggers camp out on Chinese plateau</a></li>
+<li><a href='/n3/2016/0516/c90000-9058481.html' target=_blank>China's ICBC Buys 2,000-ton London Gold Vault from Barclays</a></li>
+</ul>
+    </div>
+</div>
+<!--d2 p5-->
+<div class="w980 d2p5_content clear">
+	<h2 class="p2_4 d2_13 clear"><a href="/90783/index.html" target="_blank">Photos</a></h2>
+    <div class="jCarouselLite02 pic_jCarouselLite2 clear">
+        <span class="a01"><img src="/img/2013enpd/images/left.png" class="prev01" alt="prev" style="cursor:pointer;" /></span>
+        <ul><li><a href="http://en.people.cn/n3/2016/0316/c90000-9030947.html" target="_blank"><img src="/NMediaFile/2016/0711/FOREIGN201607110848035416892488783.jpg" width="180" height="135" alt="Thai most beautiful transgender Nong Poy release new photos"/></a><a href="http://en.people.cn/n3/2016/0316/c90000-9030947.html" target="_blank">Thai most beautiful transgender Nong Poy release new photos</a></li>
+<li><a href="http://en.people.cn/n3/2016/0705/c90000-9081613.html" target="_blank"><img src="/NMediaFile/2016/0711/FOREIGN201607110846151337172474483.jpg" width="180" height="135" alt="Top 10 livable Chinese cities"/></a><a href="http://en.people.cn/n3/2016/0705/c90000-9081613.html" target="_blank">Top 10 livable Chinese cities</a></li>
+<li><a href="http://en.people.cn/n3/2016/0705/c98649-9081729.html" target="_blank"><img src="/NMediaFile/2016/0707/FOREIGN201607071007186624007698957.jpg" width="180" height="135" alt="The last primitive tribe in China"/></a><a href="http://en.people.cn/n3/2016/0705/c98649-9081729.html" target="_blank">The last primitive tribe in China</a></li>
+<li><a href="http://en.people.cn/n3/2016/0426/c90000-9049431.html" target="_blank"><img src="/NMediaFile/2016/0503/FOREIGN201605031534161246721469884.jpg" width="180" height="135" alt="China's first intelligent security robot debuts in Chongqing"/></a><a href="http://en.people.cn/n3/2016/0426/c90000-9049431.html" target="_blank">China's first intelligent security robot debuts in Chongqing</a></li>
+<li><a href="http://en.people.cn/n3/2016/0427/c90000-9049990.html" target="_blank"><img src="/NMediaFile/2016/0503/FOREIGN201605031532017769372793979.jpg" width="180" height="135" alt="A Total of 3,552 Subscribers Vanish In Two Days; YouTube Closes All Doors to Users’ Inquiries"/></a><a href="http://en.people.cn/n3/2016/0427/c90000-9049990.html" target="_blank">A Total of 3,552 Subscribers Vanish In Two Days; YouTube Closes All Doors to Users’ Inquiries</a></li>
+<li><a href="http://en.people.cn/n3/2016/0421/c202936-9047809.html" target="_blank"><img src="/NMediaFile/2016/0503/FOREIGN201605031529554297081619149.jpg" width="180" height="135" alt="Out of this world! Futuristic UFO-shaped yacht has its own garden and a stunning underwater viewing deck"/></a><a href="http://en.people.cn/n3/2016/0421/c202936-9047809.html" target="_blank">Out of this world! Futuristic UFO-shaped yacht has its own garden and a stunning underwater viewing deck</a></li>
+<li><a href="http://en.people.cn/n3/2016/0428/c90000-9050917.html" target="_blank"><img src="/NMediaFile/2016/0503/FOREIGN201605031528207835453765764.jpg" width="180" height="135" alt="An old tea house in Chengdu"/></a><a href="http://en.people.cn/n3/2016/0428/c90000-9050917.html" target="_blank">An old tea house in Chengdu</a></li>
+<li><a href="http://en.people.cn/n3/2016/0423/c90000-9048649.html" target="_blank"><img src="/NMediaFile/2016/0503/FOREIGN201605031526389712838018231.jpg" width="180" height="135" alt="Furious Customer Crushes All the Buns from Vendor Just Because He Was Given the Wrong Flavor"/></a><a href="http://en.people.cn/n3/2016/0423/c90000-9048649.html" target="_blank">Furious Customer Crushes All the Buns from Vendor Just Because He Was Given the Wrong Flavor</a></li>
+<li><a href="http://en.people.cn/n3/2016/0425/c90000-9049270.html" target="_blank"><img src="/NMediaFile/2016/0503/FOREIGN201605031525011892904262272.jpg" width="180" height="135" alt="20 post-90s couples hold ’naked marriage‘ in E. China"/></a><a href="http://en.people.cn/n3/2016/0425/c90000-9049270.html" target="_blank">20 post-90s couples hold ’naked marriage‘ in E. China</a></li>
+<li><a href="http://en.people.cn/n3/2016/0401/c90000-9038890.html" target="_blank"><img src="/NMediaFile/2016/0412/FOREIGN201604121359365382242156617.jpg" width="180" height="135" alt="Female official wearing traditional Han costume to promote local tourism"/></a><a href="http://en.people.cn/n3/2016/0401/c90000-9038890.html" target="_blank">Female official wearing traditional Han costume to promote local tourism</a></li>
+</ul>
+        <span class="a02"><img src="/img/2013enpd/images/right.png" class="next01" alt="next" style="cursor:pointer;" /></span>
+    </div>
+</div>
+<div class="w980 p2_11 clear"><h3>Related reading</h3></div>
+<div class="w980 wb_16 clear">
+    <ul class="list_14d oh clear"><li><a href="/n3/2016/0715/c90000-9086266.html" target=_blank>Sovereignty of China is 'bottom line'</a></li><li><a href="/n3/2016/0715/c90000-9086225.html" target=_blank>Don't distort justice with a false arbitration award</a></li><li><a href="/n3/2016/0715/c90000-9086216.html" target=_blank>South China Sea arbitration will not shake China's resolve to pursue path of peaceful development: State Councilor</a></li><li><a href="/n3/2016/0712/c98649-9084635.html" target=_blank>Unlawful arbitration cannot negate China's sovereignty over South China Sea: People’s Daily</a></li><li><a href="/n3/2016/0711/c90000-9083919.html" target=_blank>Commentary: U.S. should stop treating South China Sea as next Caribbean</a></li></ul>
+</div>
+<div class="w980 p2_11 clear"><h3>Full coverage</h3></div>
+<div class="w980 wb_16 clear">
+    <ul class="list_14d oh clear"><li><a href='/102775/312891/index.html' null>South&nbsp;China&nbsp;Sea&nbsp;Arbitration:&nbsp;the&nbsp;farce&nbsp;should&nbsp;come&nbsp;to&nbsp;an&nbsp;end</a></li></ul>
+</div>
+<!--link-->
+<div class="w980 link_content clearfix">
+	<div class="link_1">
+    	<span>Links:</span>
+        <em><a href="http://beijingtoday.com.cn/"  target="_blank">Beijing Today</a><a href="http://english.cri.cn/"  target="_blank">CRI English</a><a href="http://english.sina.com/"  target="_blank">SINA English</a><a href="http://www.globaltimes.cn/index.html"  target="_blank">Global Times</a><a href="http://www.chinadaily.com.cn/
+"  target="_blank">Chinadaily.com.cn</a> <a href="http://eng.taiwan.cn/
+"  target="_blank">Taiwan.cn</a> <a href="http://www.ecns.cn
+"  target="_blank">Ecns.cn</a> <a href="http://en.showchina.org/" target="_blank">Show China</a><a href="http://www.chinahumanrights.org/" target="_blank">China Human Rights</a><a href="http://en.chinaxinjiang.cn/" target="_blank">China Xinjiang</a><a href="http://en.tibetol.cn/" target="_blank">Tibet Online</a>
+ <a href="http://english.cntv.cn/01/index.shtml" target="_blank">CCTV</a> <a href="http://www.bjreview.com.cn/" target="_blank">Beijing Review</a> <a href="http://en.gmw.cn/" target="_blank">GMW.cn
+</a>      <a href="http://en.ce.cn/
+" target="_blank">China Economic Net</a>
+<a href="http://eng.tibet.cn/
+" target="_blank">China Tibet Online</a>
+<a href="http://english.qstheory.cn/
+" target="_blank">Qiushi Journal</a><a href="http://www.womenofchina.cn/
+" target="_blank">Women of China</a></em>
+	</div>
+</div>
+<style type="text/css">
+.link_content{overflow:hidden;}
+</style>
+<!--copyright-->
+<div id="copyright"><a href="/102840/8347294.html"  target="_blank">About People's Daily Online</a> | <a href="http://en.people.cn/n3/2016/0129/c90000-9011516.html"  target="_blank"> Join Us </a>| <a href="/102840/8347260.html"  target="_blank">Contact Us</a>
+<br>people.cn © People's Daily Online</div>
+<script src="/css/2010tianrun/webdig_test.js" language="javascript" type="text/javascript"></script>
+<img src="http://58.68.146.44:8000/d.gif?id=9086529" width=0 height=0>
+</body>
+</html>
