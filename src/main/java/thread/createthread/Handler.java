@@ -4,13 +4,13 @@ import java.io.DataInputStream;
 import java.io.DataOutputStream;
 import java.io.IOException;
 import java.net.Socket;
+import java.util.concurrent.Callable;
 
 /**
  * Created by Administrator on 2016/11/8.
  */
 public class Handler {
     public void process(Socket connection) {
-
         DataInputStream in =null;
         DataOutputStream out = null;
         try {
