@@ -80,6 +80,27 @@
       <artifactId>je</artifactId>
       <version>3.2.76</version>
     </dependency>
+    <!-- https://mvnrepository.com/artifact/org.projectlombok/lombok -->
+    <dependency>
+      <groupId>org.projectlombok</groupId>
+      <artifactId>lombok</artifactId>
+      <version>1.16.10</version>
+    </dependency>
+
+      <!-- https://mvnrepository.com/artifact/org.slf4j/slf4j-simple -->
+      <dependency>
+          <groupId>org.slf4j</groupId>
+          <artifactId>slf4j-simple</artifactId>
+          <version>1.7.21</version>
+      </dependency>
+    <!-- https://mvnrepository.com/artifact/org.apache.activemq/activemq-all -->
+    <dependency>
+      <groupId>org.apache.activemq</groupId>
+      <artifactId>activemq-all</artifactId>
+      <version>5.14.1</version>
+    </dependency>
+
+
 
   </dependencies>
   <build>
