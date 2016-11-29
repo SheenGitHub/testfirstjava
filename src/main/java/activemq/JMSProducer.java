@@ -23,6 +23,7 @@ public class JMSProducer {
         connectionFactory = new ActiveMQConnectionFactory(JMSProducer.USERNAME,JMSProducer.PASSWORD,JMSProducer.BROKEURL);
 
         try {
+
             connection = connectionFactory.createConnection();
             connection.start();
             session = connection.createSession(true, Session.AUTO_ACKNOWLEDGE);

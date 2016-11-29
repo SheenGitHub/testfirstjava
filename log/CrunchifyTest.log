@@ -852,3 +852,8 @@ Caused by: java.lang.IllegalArgumentException: argument type mismatch
 2016-07-18 10:28:14 [main] WARN  HtmlScript:425 - Script is not JavaScript (type: text/json, language: ). Skipping execution.
 2016-07-18 10:28:14 [main] WARN  HtmlScript:425 - Script is not JavaScript (type: text/json, language: ). Skipping execution.
 2016-07-18 10:28:14 [main] WARN  HtmlScript:425 - Script is not JavaScript (type: text/json, language: ). Skipping execution.
+2016-11-23 15:21:07 [ActiveMQ Task-1] WARN  FailoverTransport:1100 - Failed to connect to [tcp://localhost:61616] after: 10 attempt(s) continuing to retry.
+2016-11-23 15:54:58 [ActiveMQ Task-1] INFO  FailoverTransport:1052 - Successfully connected to tcp://localhost:61616
+2016-11-23 15:55:48 [ActiveMQ Task-1] INFO  FailoverTransport:1052 - Successfully connected to tcp://localhost:61616
+2016-11-23 16:31:22 [ActiveMQ Task-1] INFO  FailoverTransport:1052 - Successfully connected to tcp://localhost:61616
+2016-11-23 16:34:51 [ActiveMQ Task-1] INFO  FailoverTransport:1052 - Successfully connected to tcp://localhost:61616
