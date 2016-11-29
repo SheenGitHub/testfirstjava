@@ -10,10 +10,11 @@ public class NextPermutation implements Problem {
     private int[] arr;
 
     public static void main(String[] args) {
-        int[] arr = {1,2,3};
-        NextPermutation permutation = new NextPermutation(arr);
-        permutation.reverse(arr,0,2);
-        permutation.printResult();
+        int[] arr = {1,2,3,4};
+//        NextPermutation permutation = new NextPermutation(arr);
+//        permutation.reverse(arr,0,2);
+//        permutation.printResult();
+        recursivePermutation(arr,0);
     }
 
     public NextPermutation(int[] arr) {
@@ -32,6 +33,7 @@ public class NextPermutation implements Problem {
         }
         System.out.println();
     }
+
 
     public void nextPermutation(int[] nums) {
         int i ,j;
@@ -60,9 +62,31 @@ public class NextPermutation implements Problem {
         }
     }
 
-    void swap(int[] a, int x, int y) {
-        a[x]^=a[y];
-        a[y]^=a[x];
-        a[x]^=a[y];
+    static void swap(int[] a, int x, int y) {
+        if(x!=y){
+            a[x]^=a[y];
+            a[y]^=a[x];
+            a[x]^=a[y];
+        }
+
     }
+
+    public static void recursivePermutation(int[] arr,int i){
+        int l = arr.length;
+        if(i==l-1){
+            for (int item : arr)
+                System.out.print(item+" ");
+            System.out.println();
+            return;
+        }
+        else{
+            for (int j = i; j <l ; j++) {
+                swap(arr,i,j);
+                recursivePermutation(arr,i+1);
+                swap(arr,i,j);
+            }
+        }
+
+    }
+
 }
