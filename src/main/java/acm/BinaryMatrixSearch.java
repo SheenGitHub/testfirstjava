@@ -15,7 +15,6 @@ public class BinaryMatrixSearch {
             {7,10,13,15,19,21,24,25}
         };
         searchFromMatrix(input,13);
-
     }
 
     public static void searchFromMatrix(int[][] mat, int val) {
